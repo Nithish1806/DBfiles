@@ -1,0 +1,92 @@
+[
+  {
+    "name": "JPMorgan Chase & Company",
+    "ticker": "JPM",
+    "permaTicker": "US000000000390",
+    "openFIGIComposite": "BBG000DMBXR2",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "JPMorgan Chase & Company",
+    "ticker": "JPM4175579",
+    "permaTicker": "US000000091893",
+    "openFIGIComposite": "BBG0079T2ZW6",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "JPMorgan USD Emerging Markets Sovereign Bond ETF",
+    "ticker": "JPMB",
+    "permaTicker": "US000000067359",
+    "openFIGIComposite": "BBG00JWVJXF5",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "JPMORGAN DIVERSIFIED RETURN U.S. MID CAP EQUITY ETF ",
+    "ticker": "JPME",
+    "permaTicker": "US000000039079",
+    "openFIGIComposite": "BBG00CVTZCJ0",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "JPMorgan ETFs IE IvBetaBuild.USTreas.Bd 0-1Y UCITS ETF USD Acc",
+    "ticker": "JPMIF",
+    "permaTicker": "US000000102511",
+    "openFIGIComposite": "BBG0148QKNJ1",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "GRANITESHARES 2X LONG JPM DAILY ETF ",
+    "ticker": "JPML",
+    "permaTicker": "US000000113079",
+    "openFIGIComposite": null,
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "YieldMax JPM Option Income Strategy ETF",
+    "ticker": "JPMO",
+    "permaTicker": "US000000111803",
+    "openFIGIComposite": "BBG01J7VYX01",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "JPMorgan Chase & Company",
+    "ticker": "JPM-P-C",
+    "permaTicker": "US000000076435",
+    "openFIGIComposite": "BBG00N2WDHD0",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "JPMorgan Chase & Company",
+    "ticker": "JPM-P-D",
+    "permaTicker": "US000000044231",
+    "openFIGIComposite": "BBG00M0GF179",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "JPMorgan Chase & Company",
+    "ticker": "JPM-P-J",
+    "permaTicker": "US000000081536",
+    "openFIGIComposite": "BBG00QRCH846",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "ticker": "NFLX",
+    "timestamp": "2024-06-17T12:25:08.993814369-04:00",
+    "lastSaleTimestamp": "2024-06-17T12:25:08.993814369-04:00",
+    "quoteTimestamp": "2024-06-17T12:25:07.463533985-04:00",
+    "open": 668.32,
+    "high": 678.275,
+    "low": 665.46,
+    "mid": null,
+    "tngoLast": 677.06,
+    "last": 677.06,
+    "lastSize": 2,
+    "bidSize": 114,
+    "bidPrice": 676.61,
+    "askPrice": 0,
+    "askSize": 0,
+    "prevClose": 669.38,
+    "volume": 42508
+  }
+]

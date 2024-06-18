@@ -1,0 +1,21 @@
+[
+  {
+    "ticker": "TSLA",
+    "timestamp": "2024-06-17T12:25:00.329709698-04:00",
+    "lastSaleTimestamp": "2024-06-17T12:25:00.329709698-04:00",
+    "quoteTimestamp": "2024-06-17T12:24:48.213690620-04:00",
+    "open": 177.93,
+    "high": 187.095,
+    "low": 176.58,
+    "mid": 186,
+    "tngoLast": 186.325,
+    "last": 186.325,
+    "lastSize": 1,
+    "bidSize": 1000,
+    "bidPrice": 184,
+    "askPrice": 188,
+    "askSize": 226,
+    "prevClose": 178.01,
+    "volume": 559740
+  }
+]

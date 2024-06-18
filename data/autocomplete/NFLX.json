@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Netflix Inc",
+    "ticker": "NFLX",
+    "permaTicker": "US000000000152",
+    "openFIGIComposite": "BBG000CL9VN6",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "YIELDMAX NFLX OPTION INCOME STRATEGY ETF ",
+    "ticker": "NFLY",
+    "permaTicker": "US000000107620",
+    "openFIGIComposite": "BBG01HQKQWF3",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "Kurv Yield Premium Strategy Netflix (NFLX) ETF",
+    "ticker": "NFLP",
+    "permaTicker": "US000000112462",
+    "openFIGIComposite": "BBG01JHJNG88",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  }
+]

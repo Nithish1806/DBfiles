@@ -1,0 +1,21 @@
+[
+  {
+    "ticker": "AMZN",
+    "timestamp": "2024-06-17T12:25:04.668093076-04:00",
+    "lastSaleTimestamp": "2024-06-17T12:25:03.741242895-04:00",
+    "quoteTimestamp": "2024-06-17T12:25:04.668093076-04:00",
+    "open": 183.07,
+    "high": 183.225,
+    "low": 181.205,
+    "mid": 181.795,
+    "tngoLast": 181.795,
+    "last": 181.79,
+    "lastSize": 3,
+    "bidSize": 100,
+    "bidPrice": 181.75,
+    "askPrice": 181.84,
+    "askSize": 100,
+    "prevClose": 183.66,
+    "volume": 312308
+  }
+]

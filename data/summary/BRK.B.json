@@ -1,0 +1,21 @@
+[
+  {
+    "ticker": "BRK-B",
+    "timestamp": "2024-06-17T12:25:02.494703187-04:00",
+    "lastSaleTimestamp": "2024-06-17T12:24:57.298154948-04:00",
+    "quoteTimestamp": "2024-06-17T12:25:02.494703187-04:00",
+    "open": 404.915,
+    "high": 405.875,
+    "low": 403.51,
+    "mid": 410,
+    "tngoLast": 405.875,
+    "last": 405.875,
+    "lastSize": 100,
+    "bidSize": 251,
+    "bidPrice": 395,
+    "askPrice": 425,
+    "askSize": 200,
+    "prevClose": 405.54,
+    "volume": 18211
+  }
+]

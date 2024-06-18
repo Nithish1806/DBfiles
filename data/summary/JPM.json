@@ -1,0 +1,21 @@
+[
+  {
+    "ticker": "JPM",
+    "timestamp": "2024-06-17T12:25:09.094449271-04:00",
+    "lastSaleTimestamp": "2024-06-17T12:24:59.913004076-04:00",
+    "quoteTimestamp": "2024-06-17T12:25:09.094449271-04:00",
+    "open": 193.07,
+    "high": 194.9,
+    "low": 192.81,
+    "mid": null,
+    "tngoLast": 194.895,
+    "last": 194.9,
+    "lastSize": 100,
+    "bidSize": 100,
+    "bidPrice": 194.86,
+    "askPrice": 0,
+    "askSize": 0,
+    "prevClose": 193.78,
+    "volume": 47103
+  }
+]

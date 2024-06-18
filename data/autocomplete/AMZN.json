@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Amazon.com Inc",
+    "ticker": "AMZN",
+    "permaTicker": "US000000000039",
+    "openFIGIComposite": "BBG000BVPV84",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "DIREXION DAILY AMZN BEAR 1X SHARES ",
+    "ticker": "AMZD",
+    "permaTicker": "US000000106182",
+    "openFIGIComposite": "BBG019HFY6V2",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "GraniteShares 2x Long AMZN Daily ETF",
+    "ticker": "AMZZ",
+    "permaTicker": "US000000115395",
+    "openFIGIComposite": "nan",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "DIREXION DAILY AMZN BULL 1.5X SHARES ",
+    "ticker": "AMZU",
+    "permaTicker": "US000000106179",
+    "openFIGIComposite": "BBG019HFXXC5",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "GRANITESHARES 1.5X LONG AMZN DAILY ETF ",
+    "ticker": "AMZZ",
+    "permaTicker": "US000000105887",
+    "openFIGIComposite": null,
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "YIELDMAX AMZN OPTION INCOME STRATEGY ETF ",
+    "ticker": "AMZY",
+    "permaTicker": "US000000107615",
+    "openFIGIComposite": "BBG01HMFFZL6",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "Kurv Yield Premium Strategy Amazon (AMZN) ETF",
+    "ticker": "AMZP",
+    "permaTicker": "US000000112592",
+    "openFIGIComposite": "BBG01JZ6LFW3",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Tesla Inc",
+    "ticker": "TSLA",
+    "permaTicker": "US000000000148",
+    "openFIGIComposite": "BBG000N9MNX3",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "TRANSAMERICA SMALL CAP VALUE A",
+    "ticker": "TSLAX",
+    "permaTicker": "US000000018659",
+    "openFIGIComposite": "BBG002Q1YDC5",
+    "assetType": "Mutual Fund",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "AXS TSLA Bear Daily ETF",
+    "ticker": "TSLQ",
+    "permaTicker": "US000000105618",
+    "openFIGIComposite": "BBG018RBQS98",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "AXS TSLA BULL DAILY ETF ",
+    "ticker": "TSLU",
+    "permaTicker": "US000000105619",
+    "openFIGIComposite": null,
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "Simplify Volt TSLA Revolution ETF",
+    "ticker": "VCAR",
+    "permaTicker": "US000000091231",
+    "openFIGIComposite": "BBG00YPT2ZB2",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "Innovator Hedged TSLA Strategy ETF",
+    "ticker": "TSLH",
+    "permaTicker": "US000000105809",
+    "openFIGIComposite": "BBG018Y7R883",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "DIREXION DAILY TSLA BEAR 1X SHARES ",
+    "ticker": "TSLS",
+    "permaTicker": "US000000105817",
+    "openFIGIComposite": "BBG0193YL2P6",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "DIREXION DAILY TSLA BULL 1.5X SHARES ",
+    "ticker": "TSLL",
+    "permaTicker": "US000000105818",
+    "openFIGIComposite": "BBG0193YH501",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "GRANITESHARES 2X LONG TSLA DAILY ETF ",
+    "ticker": "TSLR",
+    "permaTicker": "US000000111550",
+    "openFIGIComposite": "BBG01HX79S71",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "GRANITESHARES 2X SHORT TSLA DAILY ETF ",
+    "ticker": "TSDD",
+    "permaTicker": "US000000111549",
+    "openFIGIComposite": "BBG01HX753D3",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  }
+]

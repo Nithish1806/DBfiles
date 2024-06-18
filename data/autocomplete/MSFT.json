@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "permaTicker": "US000000000042",
+    "openFIGIComposite": "BBG000BPH459",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "Morgan Stanley Global Fixed Income Opportunities Fund Cl T",
+    "ticker": "MSFTX",
+    "permaTicker": "US000000075417",
+    "openFIGIComposite": null,
+    "assetType": "Mutual Fund",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "DIREXION DAILY MSFT BEAR 1X SHARES ",
+    "ticker": "MSFD",
+    "permaTicker": "US000000106181",
+    "openFIGIComposite": "BBG019J36V16",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "GraniteShares 2x Long MSFT Daily ETF",
+    "ticker": "MSFL",
+    "permaTicker": "US000000115396",
+    "openFIGIComposite": "nan",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "DIREXION DAILY MSFT BULL 1.5X SHARES ",
+    "ticker": "MSFU",
+    "permaTicker": "US000000106178",
+    "openFIGIComposite": "BBG019J36K74",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "GRANITESHARES 2X LONG MSFT DAILY ETF ",
+    "ticker": "MSFL",
+    "permaTicker": "US000000105879",
+    "openFIGIComposite": null,
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "YieldMax MSFT Option Income Strategy ETF",
+    "ticker": "MSFO",
+    "permaTicker": "US000000111608",
+    "openFIGIComposite": "BBG01J31W9F0",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "Kurv Yield Premium Strategy Microsoft (MSFT) ETF",
+    "ticker": "MSFY",
+    "permaTicker": "US000000112594",
+    "openFIGIComposite": "BBG01JJ4J7L9",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Meta Platforms Inc - Class A",
+    "ticker": "META",
+    "permaTicker": "US000000000059",
+    "openFIGIComposite": "BBG000MM2P62",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "Red Metal",
+    "ticker": "RDMMF",
+    "permaTicker": "US000000103598",
+    "openFIGIComposite": "BBG015DJ5P37",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "OneMeta Inc",
+    "ticker": "ONEI",
+    "permaTicker": "US000000059323",
+    "openFIGIComposite": "BBG000TC8S92",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "Metalink Ltd",
+    "ticker": "MTLK",
+    "permaTicker": "US000000048102",
+    "openFIGIComposite": "BBG000C3XTL6",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "Metals X Ltd",
+    "ticker": "MLXEF",
+    "permaTicker": "US000000058300",
+    "openFIGIComposite": "BBG000RJRC02",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "MetaStat Inc",
+    "ticker": "MTST",
+    "permaTicker": "US000000048154",
+    "openFIGIComposite": "BBG000V8ZD19",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "Metatron Inc",
+    "ticker": "MRNJ",
+    "permaTicker": "US000000045462",
+    "openFIGIComposite": "BBG000BHNQY9",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "Metalert Inc",
+    "ticker": "MLRT",
+    "permaTicker": "US000000040473",
+    "openFIGIComposite": "BBG000L2HSP4",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "BeMetals Corp",
+    "ticker": "BMTLF",
+    "permaTicker": "US000000080759",
+    "openFIGIComposite": "BBG00PT2YL13",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "C3 Metals Inc",
+    "ticker": "CUAUF",
+    "permaTicker": "US000000058655",
+    "openFIGIComposite": "BBG00CSP51S9",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  }
+]

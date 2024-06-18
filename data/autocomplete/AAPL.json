@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Apple Inc",
+    "ticker": "AAPL",
+    "permaTicker": "US000000000038",
+    "openFIGIComposite": "BBG000B9XRY4",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "DIREXION DAILY AAPL BEAR 1X SHARES ",
+    "ticker": "AAPD",
+    "permaTicker": "US000000105820",
+    "openFIGIComposite": "BBG0193YGJ57",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "DIREXION DAILY AAPL BULL 1.5X SHARES ",
+    "ticker": "AAPU",
+    "permaTicker": "US000000105819",
+    "openFIGIComposite": "BBG0193YBZ92",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "GRANITESHARES 2X SHORT AAPL DAILY ETF ",
+    "ticker": "APSD",
+    "permaTicker": "US000000113077",
+    "openFIGIComposite": null,
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "KURV APPLE (AAPL) 1.75X LONG DAILY ETF ",
+    "ticker": "LAAP",
+    "permaTicker": "US000000109711",
+    "openFIGIComposite": null,
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "GRANITESHARES 1.75X LONG AAPL DAILY ETF ",
+    "ticker": "AAPB",
+    "permaTicker": "US000000105888",
+    "openFIGIComposite": "BBG0193F21N2",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "YIELDMAX AAPL OPTION INCOME STRATEGY ETF ",
+    "ticker": "APLY",
+    "permaTicker": "US000000107613",
+    "openFIGIComposite": "BBG01FV8K8Y6",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "Kurv Yield Premium Strategy Apple (AAPL) ETF",
+    "ticker": "AAPY",
+    "permaTicker": "US000000112459",
+    "openFIGIComposite": "BBG01JXKG7J3",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "YIELDMAXTM AAPL SHORT OPTION INCOME STRATEGY ETF ",
+    "ticker": "ROTN",
+    "permaTicker": "US000000115314",
+    "openFIGIComposite": null,
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  }
+]

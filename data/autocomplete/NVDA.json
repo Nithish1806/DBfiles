@@ -1,0 +1,83 @@
+[
+  {
+    "name": "NVIDIA Corp",
+    "ticker": "NVDA",
+    "permaTicker": "US000000000079",
+    "openFIGIComposite": "BBG000BBJQV0",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "AXS 1.25X NVDA Bear Daily ETF",
+    "ticker": "NVDS",
+    "permaTicker": "US000000105628",
+    "openFIGIComposite": "BBG018RBWPY9",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "AXS 1.25X NVDA BULL DAILY ETF ",
+    "ticker": "NVDB",
+    "permaTicker": "US000000105613",
+    "openFIGIComposite": null,
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "DIREXION DAILY NVDA BEAR 1X SHARES ",
+    "ticker": "NVDD",
+    "permaTicker": "US000000111848",
+    "openFIGIComposite": "BBG01J5P2T55",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "DIREXION DAILY NVDA BULL 1.5X SHARES ",
+    "ticker": "NVDU",
+    "permaTicker": "US000000111641",
+    "openFIGIComposite": "BBG01J5P0SN9",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "GRANITESHARES 2X SHORT NVDA DAILY ETF ",
+    "ticker": "NVD",
+    "permaTicker": "US000000111548",
+    "openFIGIComposite": "BBG01HX7YVX7",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "GRANITESHARES 1.5X LONG NVDA DAILY ETF ",
+    "ticker": "NVDL",
+    "permaTicker": "US000000107829",
+    "openFIGIComposite": "BBG01BWDKNF1",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "YIELDMAX NVDA OPTION INCOME STRATEGY ETF ",
+    "ticker": "NVDY",
+    "permaTicker": "US000000107621",
+    "openFIGIComposite": "BBG01G4W4QY9",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "YIELDMAXTM NVDA SHORT OPTION INCOME STRATEGY ETF ",
+    "ticker": "DIPS",
+    "permaTicker": "US000000115317",
+    "openFIGIComposite": null,
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  }
+]

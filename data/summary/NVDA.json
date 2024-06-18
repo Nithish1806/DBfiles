@@ -1,0 +1,21 @@
+[
+  {
+    "ticker": "NVDA",
+    "timestamp": "2024-06-17T12:25:06.190248695-04:00",
+    "lastSaleTimestamp": "2024-06-17T12:25:04.538094386-04:00",
+    "quoteTimestamp": "2024-06-17T12:25:06.190248695-04:00",
+    "open": 133.21,
+    "high": 133.76,
+    "low": 129.605,
+    "mid": 131.36,
+    "tngoLast": 131.305,
+    "last": 131.3,
+    "lastSize": 2,
+    "bidSize": 100,
+    "bidPrice": 131.32,
+    "askPrice": 131.4,
+    "askSize": 100,
+    "prevClose": 131.88,
+    "volume": 1540153
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Alphabet Inc - Class A",
+    "ticker": "GOOGL",
+    "permaTicker": "US000000000326",
+    "openFIGIComposite": "BBG009S39JX6",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "DIREXION DAILY GOOGL BEAR 1X SHARES ",
+    "ticker": "GGLS",
+    "permaTicker": "US000000106183",
+    "openFIGIComposite": "BBG019HFVSR2",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "DIREXION DAILY GOOGL BULL 1.5X SHARES ",
+    "ticker": "GGLL",
+    "permaTicker": "US000000106180",
+    "openFIGIComposite": "BBG019HFT425",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "GRANITESHARES 1.75X LONG GOOGL DAILY ETF ",
+    "ticker": "GOOL",
+    "permaTicker": "US000000105886",
+    "openFIGIComposite": null,
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "KURV GOOGLE (GOOGL) 1.75X LONG DAILY ETF ",
+    "ticker": "UGOO",
+    "permaTicker": "US000000109713",
+    "openFIGIComposite": null,
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "KURV GOOGLE (GOOGL) 1.75X SHORT DAILY ETF ",
+    "ticker": "DGOO",
+    "permaTicker": "US000000109714",
+    "openFIGIComposite": null,
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "YIELDMAX GOOGL OPTION INCOME STRATEGY ETF ",
+    "ticker": "GOOY",
+    "permaTicker": "US000000107618",
+    "openFIGIComposite": "BBG01HP10WH2",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  },
+  {
+    "name": "Kurv Yield Premium Strategy Google (GOOGL) ETF",
+    "ticker": "GOOP",
+    "permaTicker": "US000000112593",
+    "openFIGIComposite": "BBG01JZ6KLB4",
+    "assetType": "ETF",
+    "isActive": true,
+    "countryCode": "US"
+  }
+]

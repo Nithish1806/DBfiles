@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Wells Fargo & Company",
+    "ticker": "WFCNP",
+    "permaTicker": "US000000059795",
+    "openFIGIComposite": "BBG0000021D9",
+    "assetType": "Stock",
+    "isActive": true,
+    "countryCode": "US"
+  }
+]

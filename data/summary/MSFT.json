@@ -1,0 +1,21 @@
+[
+  {
+    "ticker": "MSFT",
+    "timestamp": "2024-06-17T12:25:00.542331515-04:00",
+    "lastSaleTimestamp": "2024-06-17T12:25:00.031207797-04:00",
+    "quoteTimestamp": "2024-06-17T12:25:00.542331515-04:00",
+    "open": 442.25,
+    "high": 445.185,
+    "low": 440.74,
+    "mid": 448.505,
+    "tngoLast": 445.07,
+    "last": 445.07,
+    "lastSize": 100,
+    "bidSize": 100,
+    "bidPrice": 445.01,
+    "askPrice": 452,
+    "askSize": 101,
+    "prevClose": 442.57,
+    "volume": 157503
+  }
+]
