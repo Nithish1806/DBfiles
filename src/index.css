@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body.light {
+  @apply bg-white text-black;
+}
+
+body.dark {
+  @apply bg-slate-900 text-white;
+}
+
+:root {
+  --bg-navbar-light: rgb(14 58 35 / var(--tw-bg-opacity));
+  --bg-navbar-dark: #212529;
+}
+
+.bg-navbar-light {
+  background-color: var(--bg-navbar-light);
+}
+
+.bg-navbar-dark {
+  background-color: var(--bg-navbar-dark);
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
