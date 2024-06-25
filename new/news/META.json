@@ -1,0 +1,1308 @@
+{
+  "status": "ok",
+  "totalResults": 17302,
+  "ticker": "META",
+
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Karissa Bell",
+      "title": "Meta makes the Threads API available to all developers",
+      "description": "Meta is finally making the Threads API available\r\n to developers. The company began testing the developers tools with a handful of companies back in March\r\n, but is now throwing the door open to more creators and app makers.\nFor now, the Threads API functiona…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8b15e26d-3325-44cb-9b53-d0c851fbca97",
+      "urlToImage": null,
+      "publishedAt": "2024-06-18T17:49:46Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Gaby Del Valle",
+      "title": "Meta says European regulators are ruining its AI bot",
+      "description": "Meta said Ireland’s Data Protection Commission asked it to delay training LLMs on public user information.",
+      "url": "https://www.theverge.com/2024/6/14/24178591/meta-ai-assistant-europe-ireland-privacy-objections",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/V_d3RRDwct_8srDjIdtJ3HWNUSc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg",
+      "publishedAt": "2024-06-14T17:56:55Z",
+      "content": "Meta says European regulators are ruining its AI bot\r\nMeta says European regulators are ruining its AI bot\r\n / The company has halted plans for its AI assistant in Europe, claiming it needs local inf… [+2357 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Karissa Bell",
+      "title": "Meta and Google want to make AI deals with Hollywood studios",
+      "description": "Meta and Google are offering Hollywood studios millions of dollars with the hope of striking licensing deals that could improve their models for AI-generated video, according to a new report\r\n in Bloomberg. The companies have reportedly offered “tens of milli…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_04d806c3-54ff-45c2-80d4-50625ce08f4a",
+      "urlToImage": null,
+      "publishedAt": "2024-05-23T22:00:33Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Lawrence Bonk",
+      "title": "Meta Quest software update adds a better way to watch Netflix and a travel mode",
+      "description": "Meta’s rolling out a small spring/summer update for the Quest 2 and Quest 3 headsets. There’s nothing too major here, but there are some small improvements for regular users.\nThe biggest news is a new and better way to watch Netflix content. There’s long been…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fca5b2cf-f0cb-4a6d-90a9-9c7107c13814",
+      "urlToImage": null,
+      "publishedAt": "2024-06-04T14:00:34Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Mariella Moon",
+      "title": "Just Dance VR is coming to Meta Quest headsets in October",
+      "description": "If you think Just Dance would be a great addition to your library of virtual reality games and experiences, then mark this date: October 15. 2024. Ubisoft is launching Just Dance VR: Welcome to Dancity that day for the Meta Quest 2, Meta Quest Pro and Meta Qu…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_87ce90eb-54d9-40e4-aee0-42fa3ce96bc7",
+      "urlToImage": null,
+      "publishedAt": "2024-06-11T04:31:51Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Meta’s AI is summarizing some bizarre Facebook comment sections",
+      "description": "Meta is using its AI tool to summarize the comment sections on Facebook. These summaries reflect what people are saying, whether good or bad.",
+      "url": "https://www.theverge.com/2024/5/31/24168802/meta-ai-facebook-comments-summaries",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/SwRyvOp8voAyNZVL0yUOhVTptCc=/0x0:1073x653/1200x628/filters:focal(507x397:508x398)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472786/meta_ai_summary_facebook.jpg",
+      "publishedAt": "2024-05-31T19:02:03Z",
+      "content": "Metas AI is summarizing some bizarre Facebook comment sections\r\nMetas AI is summarizing some bizarre Facebook comment sections\r\n / Metas AI sums up all the good and bad things people have to say abou… [+2771 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adrienne So",
+      "title": "Sorry, VR: The Meta Ray-Ban Wayfarers Are the Best Face Computer",
+      "description": "Finally! An AI-enabled face computer that's comfortable, useful, attractive, and not completely humiliating to wear.",
+      "url": "https://www.wired.com/story/the-ray-ban-meta-wayfarers-are-the-best-face-computer/",
+      "urlToImage": "https://media.wired.com/photos/666e00967a365359091d8b0b/191:100/w_1280,c_limit/Meta-Ray-Ban-Wayfarers-collage-062024-SOURCE-Adrienne-So.jpg",
+      "publishedAt": "2024-06-16T13:00:00Z",
+      "content": "Right now, theyre my favorite pair of workout headphones, because I only have to grab one accessory instead of two when I head out the door. My poor ears are the coat hooks of my headnow, instead of … [+3206 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kris Holt",
+      "title": "Spain blocks Facebook and Instagram from deploying election features",
+      "description": "Spain has blocked Meta\r\n from rolling out election-focused features on Facebook\r\n and Instagram\r\n in the country. Data protection agency AEPD used emergency powers stipulated in the European Union’s General Data Protection Regulation (GDPR) to ban the Electio…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c3eaba68-f9b7-4df9-9dca-42a41608f30f",
+      "urlToImage": null,
+      "publishedAt": "2024-05-31T14:50:13Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Karissa Bell",
+      "title": "How small claims court became Meta's customer service hotline",
+      "description": "Last month, Ray Palena boarded a plane from New Jersey to California to appear in court. He found himself engaged in a legal dispute against one of the largest corporations in the world, and improbably, the venue for their David-versus-Goliath showdown would …",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_756de6d5-4cca-4df5-acb3-5e82ad12566e",
+      "urlToImage": null,
+      "publishedAt": "2024-06-20T16:02:24Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Morgan Meaker",
+      "title": "My Memories Are Just Meta's Training Data Now",
+      "description": "Meta’s plans to use personal content posted by Facebook and Instagram users to train algorithms suggest our digital histories are being repackaged to teach AI about—and how to mimic—humanity.",
+      "url": "https://www.wired.com/story/my-memories-are-just-meta-training-data-now/",
+      "urlToImage": "https://media.wired.com/photos/6674bb54acbf0be0e0031ffe/191:100/w_1280,c_limit/facebook%20AI-03%202.jpg",
+      "publishedAt": "2024-06-21T13:00:00Z",
+      "content": "In R. C. Sherriffs novel The Hopkins Manuscript, readers are transported to a world 800 years after a cataclysmic event ended Western civilization. In pursuit of clues about a blank spot in their pla… [+3528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "WhatsApp boss in online spat with Elon Musk",
+      "description": "The messaging app's boss has taken to social media to deny Mr Musk's claim it \"exports user data.\"",
+      "url": "https://www.bbc.com/news/articles/c0ddwymz8ero",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9370/live/1e7d6b50-1ce1-11ef-a36a-771f5fdb8b8a.jpg",
+      "publishedAt": "2024-05-28T12:14:59Z",
+      "content": "WhatsApp boss Will Cathcart has hit back at claims from Elon Musk that the messaging app \"exports your user data every night.\"\r\nPosting on X, Mr Cathcart said the allegation was simply \"not correct\".… [+2101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Nicholas Sutrich",
+      "title": "The Meta Quest 3's next-gen AR upgrade has been delayed",
+      "description": "Meta Augments, the next-generation mixed reality upgrade for the Meta Quest 3, was sent back to the drawing board earlier this year because it wasn't good enough.",
+      "url": "https://www.androidcentral.com/gaming/virtual-reality/meta-quest-3-augments-feature-delayed",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yJU3TdPpzXcPEtXK8EnFvH-1200-80.jpg",
+      "publishedAt": "2024-06-18T17:42:41Z",
+      "content": "What you need to know\r\n<ul><li>Augments are digital objects that can be placed in the real world, viewable through a Meta Quest 3 headset.</li><li>Meta CTO Andrew Bosworth said Augments went back to … [+2577 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "Lawsuit: Meta engineer told to resign after calling out sexist hiring practices",
+      "description": "Meta managers are accused of retaliation and covering up mistreatment of women.",
+      "url": "https://arstechnica.com/tech-policy/2024/06/lawsuit-meta-engineer-told-to-resign-after-calling-out-sexist-hiring-practices/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2154120118-760x380.jpg",
+      "publishedAt": "2024-06-18T21:54:22Z",
+      "content": "10\r\nMeta got hit Tuesday with a lawsuit alleging that the company knowingly overlooks sexist treatment of female employees. That includes an apparent practice of hiring and promoting less qualified m… [+5398 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "DuckDuckGo offers “anonymous” access to AI chatbots through new service",
+      "description": "DDG offers LLMs from OpenAI, Anthropic, Meta, and Mistral for factually-iffy conversations.",
+      "url": "https://arstechnica.com/information-technology/2024/06/duckduckgo-offers-anonymous-access-to-ai-chatbots-through-new-service/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/ddg_aichat_hero-760x380.jpg",
+      "publishedAt": "2024-06-06T16:39:11Z",
+      "content": "3\r\nOn Thursday, DuckDuckGo unveiled a new \"AI Chat\" service that allows users to converse with four mid-range large language models (LLMs) from OpenAI, Anthropic, Meta, and Mistral in an interface si… [+3966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Steve Nadis",
+      "title": "How Game Theory Can Make AI More Reliable",
+      "description": "Researchers are drawing on ideas from game theory to improve large language models and make them more correct, efficient, and consistent.",
+      "url": "https://www.wired.com/story/game-theory-can-make-ai-more-correct-and-efficient/",
+      "urlToImage": "https://media.wired.com/photos/666089bdc5df112122a38df1/191:100/w_1280,c_limit/Consensus-game-scaled.jpg",
+      "publishedAt": "2024-06-09T11:00:00Z",
+      "content": "Posing a far greater challenge for AI researchers was the game of Diplomacya favorite of politicians like John F. Kennedy and Henry Kissinger. Instead of just two opponents, the game features seven p… [+3537 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "nandika.iyerravi@futurenet.com (Nandika Ravi)",
+      "title": "Meta ups AI game and brings Calm, Amazon Music, and more to Ray-Ban smartglasses",
+      "description": "Meta adds more AI-powered features and new apps to its Ray-Ban smart glasses.",
+      "url": "https://www.androidcentral.com/wearables/meta-ups-ai-game-and-brings-calm-amazon-music-and-more-to-ray-ban-smartglasses",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/79grdWwDffbFXkkbrTQzBC-1200-80.jpg",
+      "publishedAt": "2024-05-23T20:43:57Z",
+      "content": "What you need to know\r\n<ul><li>Meta is bringing Calm, Amazon Music and integrating Instagram stories with a new update to their Ray-Ban smart glasses.</li><li>These apps will be powered by Meta's Lla… [+2694 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "nicholas.sutrich@futurenet.com (Nicholas Sutrich)",
+      "title": "Meta just advertised a mysterious Quest 3 UI update",
+      "description": "A new Instagram ad showcases a Meta Quest 3 UI we've never seen, leading us to believe the big UI update is just around the corner.",
+      "url": "https://www.androidcentral.com/gaming/virtual-reality/meta-quest-3-mysterious-new-ui-ad",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bPm95MfeZAjA8goTLNWLLc-1200-80.jpg",
+      "publishedAt": "2024-05-28T15:33:14Z",
+      "content": "What you need to know\r\n<ul><li>A new ad on Instagram showcases a Meta Quest 3 UI with movable windows.</li><li>These windows stay where they're put like a physical monitor.</li><li>Apple Vision Pro l… [+4162 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Nicholas Sutrich",
+      "title": "Apple and Meta can't stop copying each other",
+      "description": "The Apple Vision Pro and Meta Quest 3 are building off each other in a way we haven't seen since Android and iOS, and that's a good thing for everyone involved.",
+      "url": "https://www.androidcentral.com/gaming/virtual-reality/apple-and-meta-cant-stop-copying-each-other",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cXkGMkYVHUYmyxPfitr868-1200-80.jpg",
+      "publishedAt": "2024-06-13T16:01:30Z",
+      "content": "Every year, the same thing happens. Apple's annual WWDC conference happens in early June, and inevitably, we write about all the features Apple stole from Android. It's a fun and mostly tongue-in-che… [+7104 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "nicholas.sutrich@futurenet.com (Nicholas Sutrich)",
+      "title": "I finally fixed my Meta Quest 3 guardian boundary problems",
+      "description": "Lots of Meta Quest gamers have reported problems with their guardian boundary floor height. Here's how to fix it!",
+      "url": "https://www.androidcentral.com/gaming/virtual-reality/meta-quest-guardian-boundary-issues-fixed",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/f8EddGcEgDaLqRBfgMzkJL-1200-80.jpg",
+      "publishedAt": "2024-06-01T02:09:23Z",
+      "content": "What you need to know\r\n<ul><li>Many users have reported problems with the Meta Quest Guardian Boundary making them float or being tilted.</li><li>Normal methods of resetting the boundary don't always… [+2251 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Morgan Meaker",
+      "title": "The Big-Tech Clean Energy Crunch Is Here",
+      "description": "Companies like Amazon and Microsoft are racing to set up new data centers in Europe, but behind the scenes there's concern about how provide them enough power to meet AI's demands.",
+      "url": "https://www.wired.com/story/big-tech-datacenter-energy-power-grid/",
+      "urlToImage": "https://media.wired.com/photos/665124b13d662ee3bfb78bd6/191:100/w_1280,c_limit/Tech-Data-Centers-Sustainable-Energy-Business-Alamy-2X3GC4M.jpg",
+      "publishedAt": "2024-06-03T11:49:03Z",
+      "content": "Big Techs appetite for energy is just about visible from the east coast of Scotland. Some 12 miles out to sea sits a wind farm, where each of the 60 giant turbines has blades roughly the length of an… [+4093 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Reynolds",
+      "title": "Science Is Full of Errors. Bounty Hunters Are Here to Find Them",
+      "description": "A new project is paying researchers to find errors in other scientists’ work. The only problem? Even error hunters make mistakes.",
+      "url": "https://www.wired.com/story/bounty-hunters-are-here-to-save-academia-bug-bounty/",
+      "urlToImage": "https://media.wired.com/photos/66747583e21ea530abfaa2f4/191:100/w_1280,c_limit/science-errors-01.jpg",
+      "publishedAt": "2024-06-21T11:00:00Z",
+      "content": "In 2010, two famous economists, Carmen Reinhart and Kenneth Rogoff, released a paper confirming what many fiscally conservative politicians had long suspected: that a countrys economic growth tanks i… [+3020 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Suswati Basu",
+      "title": "What is Cara app and is it using AI? Why Meta artists are running to new platform",
+      "description": "Artists are increasingly migrating from Meta to Cara, a new app that has banned AI-generated content and the use of… Continue reading What is Cara app and is it using AI? Why Meta artists are running to new platform\nThe post What is Cara app and is it using A…",
+      "url": "https://readwrite.com/what-is-cara-app-is-it-using-ai-meta-artists/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/What-is-Cara-app-and-is-it-using-AI-Why-Meta-artists-are-running-to-new-platform.png",
+      "publishedAt": "2024-06-07T11:57:37Z",
+      "content": "Artists are increasingly migrating from Meta to Cara, a new app that has banned AI-generated content and the use of artwork for AI training. This shift follows allegations that Meta has been using th… [+3921 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Suswati Basu",
+      "title": "Meta delays AI launch in Europe as it faces complaints over data protection",
+      "description": "Meta has postponed the launch of its AI models in Europe following guidance from Ireland’s privacy regulators to delay its… Continue reading Meta delays AI launch in Europe as it faces complaints over data protection\nThe post Meta delays AI launch in Europe a…",
+      "url": "https://readwrite.com/meta-ai-europe-complaints-data-privacy/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/Meta-delays-AI-launch-in-Europe-as-it-faces-complaints-over-data-protection.png",
+      "publishedAt": "2024-06-14T18:36:41Z",
+      "content": "Meta has postponed the launch of its AI models in Europe following guidance from Ireland’s privacy regulators to delay its plans to use data from Facebook and Instagram users, according to the U.S. s… [+3731 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "Meta Withheld Information on Instagram, WhatsApp Deals, FTC Says",
+      "description": "Meta Platforms withheld information from federal regulators during their original reviews of the Instagram and WhatsApp acquisitions, the US Federal Trade Commission said in a court filing as part of a lawsuit seeking to break up the social networking giant. …",
+      "url": "https://tech.slashdot.org/story/24/06/05/2014213/meta-withheld-information-on-instagram-whatsapp-deals-ftc-says",
+      "urlToImage": "https://a.fsdn.com/sd/topics/facebook_64.png",
+      "publishedAt": "2024-06-05T21:10:00Z",
+      "content": "In its filing Tuesday, however, the FTC said the case involves \"information Meta had in its files and did not provide\" during the original reviews. \"At Meta's request the FTC undertook only a limited… [+774 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "BeauHD",
+      "title": "Meta Accused of Trying To Discredit Ad Researchers",
+      "description": "Thomas Claburn reports via The Register: Meta allegedly tried to discredit university researchers in Brazil who had flagged fraudulent adverts on the social network's ad platform. Nucleo, a Brazil-based news organization, said it has obtained government docum…",
+      "url": "https://tech.slashdot.org/story/24/06/17/1946221/meta-accused-of-trying-to-discredit-ad-researchers",
+      "urlToImage": "https://a.fsdn.com/sd/topics/facebook_64.png",
+      "publishedAt": "2024-06-17T23:20:00Z",
+      "content": "Meta allegedly tried to discredit university researchers in Brazil who had flagged fraudulent adverts on the social network's ad platform. Nucleo, a Brazil-based news organization, said it has obtain… [+2763 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Beatrice Nolan",
+      "title": "Meta's AI chief slams Elon Musk for spreading 'crazy conspiracy theories' amid escalating feud",
+      "description": "Elon Musk's has been trading barbs with Meta AI chief Yann LeCun for the last week.",
+      "url": "https://www.businessinsider.com/yann-lecun-meta-ai-chief-elon-musk-feud-intensifies-2024-6",
+      "urlToImage": "https://i.insider.com/665d88a11cd3b177904265e6?width=1200&format=jpeg",
+      "publishedAt": "2024-06-03T09:56:06Z",
+      "content": "xAI founder Elon Musk (left) and Meta's AI chief Yann LeCun (right).Steve Granitz/FilmMagic via Getty Images; Kevin Dietsch via Getty Images\r\n<ul><li>Elon Musk's feud with Meta AI chief Yann LeCun is… [+2375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "José María López",
+      "title": "Cómo evitar que Meta use tus datos de Instagram y Facebook para entrenar su IA",
+      "description": "Meta, antes Facebook, nos tiene acostumbrados a polémicas como el uso de nuestros datos sin permiso, la proliferación de contenido sensible o reprochable, la difusión de bulos y, más recientemente, la manera en que entrena su inteligencia artificial. Sin ir m…",
+      "url": "http://hipertextual.com/2024/06/instagram-facebook-entrenar-meta-ai",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/05/Meta-AI-Circle.jpg",
+      "publishedAt": "2024-06-05T12:46:13Z",
+      "content": "Meta, antes Facebook, nos tiene acostumbrados a polémicas como el uso de nuestros datos sin permiso, la proliferación de contenido sensible o reprochable, la difusión de bulos y, más recientemente, l… [+4727 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "nicholas.sutrich@futurenet.com (Nicholas Sutrich)",
+      "title": "Meta's mixed reality fitness concept just got invented by someone else",
+      "description": "Alo Moves is a popular online yoga platform and the company is bringing its massive library of lessons to mixed reality on the Meta Quest 3.",
+      "url": "https://www.androidcentral.com/gaming/virtual-reality/alo-moves-yoga-mixed-reality-quest-3",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PJ3veZx9LEYjcaAu7P5Lth-1200-80.jpg",
+      "publishedAt": "2024-05-30T22:06:10Z",
+      "content": "What you need to know\r\n<ul><li>Alo Moves is making a mixed reality yoga app for the Meta Quest 3.</li><li>It's the first mixed reality app that uses volumetric coaches for fully immersive at-home yog… [+2223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "Meta Pauses Plans To Train AI Using European Users' Data, Bowing To Regulatory Pressure",
+      "description": "Meta has confirmed that it will pause plans to start training its AI systems using data from its users in the European Union and U.K. From a report: The move follows pushback from the Irish Data Protection Commission (DPC), Meta's lead regulator in the EU, wh…",
+      "url": "https://tech.slashdot.org/story/24/06/14/1844222/meta-pauses-plans-to-train-ai-using-european-users-data-bowing-to-regulatory-pressure",
+      "urlToImage": "https://a.fsdn.com/sd/topics/facebook_64.png",
+      "publishedAt": "2024-06-14T18:44:00Z",
+      "content": "The move follows pushback from the Irish Data Protection Commission (DPC), Meta's lead regulator in the EU, which is acting on behalf of several data protection authorities across the bloc. The U.K.'… [+1284 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "jerry.hildenbrand@futurenet.com (Jerry Hildenbrand)",
+      "title": "Overreacting is easy, but it will never fix any real problems",
+      "description": "It's fine to hate what companies like Adobe and Meta do with your information, but you still have some control over it all.",
+      "url": "https://www.androidcentral.com/apps-software/read-before-you-overreact",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Pb8iQydoif8HbLa9cgJXbE-1200-80.jpg",
+      "publishedAt": "2024-06-08T15:02:57Z",
+      "content": "We've had another fun week seeing how companies want to access and process our data for their benefit. Everyone is up in arms about new terms and conditions from Adobe and Meta that tell us how they … [+4661 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Nicholas Sutrich",
+      "title": "An update just fixed the biggest Quest 3 mixed reality problem",
+      "description": "The Meta Quest 3 just got a huge new update to fix mixed reality vision, finally removing the warping around moving objects.",
+      "url": "https://www.androidcentral.com/gaming/virtual-reality/an-update-just-fixed-the-biggest-quest-3-mixed-reality-problem",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/q28mq33BPDEkX577VTkKo5-1200-80.jpg",
+      "publishedAt": "2024-06-08T12:20:23Z",
+      "content": "What you need to know\r\n<ul><li>The Meta Quest 3 June v66 update addresses issues with mixed reality motion capture.</li><li>Moving objects using the headset's cameras no longer \"warp\" the environment… [+2371 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Katie Balevic",
+      "title": "Meta's plan to train its AI on all your old Facebook data is raising eyebrows among privacy advocates",
+      "description": "Meta is about to start scraping old Facebook data to train its AI models, alarming advocacy groups in Europe.",
+      "url": "https://www.businessinsider.com/meta-privacy-policy-change-concerns-scrape-facebook-data-train-ai-2024-6",
+      "urlToImage": "https://i.insider.com/6662159cd0b8e1c832ccc3d2?width=1200&format=jpeg",
+      "publishedAt": "2024-06-07T10:11:01Z",
+      "content": "Meta wants to use old Facebook data to train its AI models.picture alliance/Getty Images\r\n<ul><li>A European advocacy group filed complaints in 11 countries over a new Meta AI policy.</li><li>NOYB, o… [+2408 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Katie Balevic",
+      "title": "We asked Meta AI how to disable it and it pretended to know",
+      "description": "Some Instagram and Facebook users are annoyed they can't disable Meta AI. The bot itself is confused, too.",
+      "url": "https://www.businessinsider.com/how-to-disable-meta-ai-instagram-facebook-2024-6",
+      "urlToImage": "https://i.insider.com/666efcaae07904901819733b?width=1200&format=jpeg",
+      "publishedAt": "2024-06-16T17:31:02Z",
+      "content": "Meta AI is hard to turn off.porcorex/Getty\r\n<ul><li>Meta AI has sparked mixed reactions on social media apps like Instagram and Facebook. </li><li>Some users have been frustrated by accidentally enga… [+3296 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jordan Hart",
+      "title": "Photos show Mark Zuckerberg's style evolution — from hoodies to silver chains",
+      "description": "Mark Zuckerberg, Meta CEO and tech billionaire, evolved his style from simple gray t-shirts to expensive sweaters and trendy accessories.",
+      "url": "https://www.businessinsider.com/mark-zuckerbergs-style-evolution-in-photos-2024-6",
+      "urlToImage": "https://i.insider.com/666ac87f764df16112595896?width=1200&format=jpeg",
+      "publishedAt": "2024-06-15T10:18:02Z",
+      "content": "Mark Zuckerberg is becoming more like a style influencer in 2024.Chris Unger\r\n<ul><li>Mark Zuckerberg isn't style icon by any means, but he's working on it.</li><li>After spending years wearing the s… [+7262 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Katie Balevic",
+      "title": "Think your boss is scary? Check out the brutal emails these tech CEOs sent their employees.",
+      "description": "Employees at Meta may be feeling the scary boss angst as newly released emails from a terse Mark Zuckerberg went viral this week.",
+      "url": "https://www.businessinsider.com/brutal-emails-tech-ceo-sent-empoyees-zuckerber-bezos-elon-musk-2024-5",
+      "urlToImage": "https://i.insider.com/66536ada20abc1efe8fdc35d?width=1200&format=jpeg",
+      "publishedAt": "2024-05-27T10:53:01Z",
+      "content": "Mark Zuckerberg.The Washington Post\r\n<ul><li>A terse 2016 email from Meta CEO Mark Zuckerberg has gone viral.</li><li>He told his employees to just \"figure out how to do\" something, offering little h… [+3878 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Shubhangi Goel",
+      "title": "I was laid off one day before my 2nd child was born. I landed a job at Meta in a month thanks to 5 habits I practiced even before the layoff.",
+      "description": "Engineer Vishwanath Eswarakrishnan was let go from Cruise a day before his second child was born. He found a job at Meta in a month.",
+      "url": "https://www.businessinsider.com/how-to-find-job-after-tech-layoff-meta-cruise-engineer-2024-6",
+      "urlToImage": "https://i.insider.com/6661c73bd0b8e1c832cc7cd2?width=1200&format=jpeg",
+      "publishedAt": "2024-06-07T00:37:50Z",
+      "content": "Vishwanath Eswarakrishnan is a software engineer at Meta.Vishwanath Eswarakrishnan; Meta; Chelsea Jia Feng/BI\r\n<ul><li>Vishwanath Eswarakrishnan joined Meta after being laid off from Cruise in Decemb… [+4657 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kwan Wei Kevin Tan",
+      "title": "How Apple's efforts to dominate the AI arms race fell apart",
+      "description": "The Cupertino-based tech giant is widely seen as falling behind on AI when compared against peers like Microsoft and Meta.",
+      "url": "https://www.businessinsider.com/apple-hired-ex-googler-lead-ai-efforts-but-fell-apart-2024-6",
+      "urlToImage": "https://i.insider.com/666136251cd3b1779043b7ad?width=1200&format=jpeg",
+      "publishedAt": "2024-06-06T07:54:46Z",
+      "content": "Apple CEO Tim Cook.Justin Sullivan via Getty Images\r\n<ul><li>Winning the AI race has long been a goal of Apple's. </li><li>The company brought in Google's AI chief John Giannandrea to lead their AI e… [+3516 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Robin Madell",
+      "title": "I quit my Big Tech dream job to work for myself. I loved the perks and the 6-figure salary, but the hustle culture wasn't worth it.",
+      "description": "Jean Kang worked at Meta, Pinterest, Intuit, LinkedIn, and Figma before quitting in February to run her own business. Her Sunday scaries are gone.",
+      "url": "https://www.businessinsider.com/quit-big-tech-dream-job-pay-perks-not-worth-it-2024-5",
+      "urlToImage": "https://i.insider.com/6656026320abc1efe8fdffc7?width=1200&format=jpeg",
+      "publishedAt": "2024-05-29T09:05:01Z",
+      "content": "Jean Kang.Courtesy of Jean Kang\r\n<ul><li>Jean Kang left a successful career in Big Tech to pursue entrepreneurship full-time in February.</li><li>Kang enjoyed the perks of the industry but felt overw… [+5281 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "Gabriel Erard",
+      "title": "Meta no lanzará en Europa su IA entrenada con publicaciones de Facebook e Instagram",
+      "description": "Meta AI, el chatbot impulsado por Llama 3 e integrado en WhatsApp, Instagram y Facebook, no se lanzará en Europa. Al menos por ahora. Así lo ha confirmado Meta, luego de un pedido realizado por la Comisión de Protección de Datos de Irlanda (DPC) a raíz de múl…",
+      "url": "http://hipertextual.com/2024/06/meta-ai-no-se-lanzara-en-europa",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/06/Meta-AI-scaled.jpg",
+      "publishedAt": "2024-06-14T17:50:22Z",
+      "content": "Meta AI, el chatbot impulsado por Llama 3 e integrado en WhatsApp, Instagram y Facebook, no se lanzará en Europa. Al menos por ahora. Así lo ha confirmado Meta, luego de un pedido realizado por la Co… [+3752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Sophie Atkinson",
+      "title": "Uvalde shooting victims’ families sue Call of Duty developer and Meta",
+      "description": "The families of victims in the shooting at Robb Elementary School in Uvalde, Texas are bringing lawsuits to Call of… Continue reading Uvalde shooting victims’ families sue Call of Duty developer and Meta\nThe post Uvalde shooting victims’ families sue Call of …",
+      "url": "https://readwrite.com/uvalde-shooting-victims-families-sue-call-of-duty-developer-and-meta/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/apps.5980.13510798887669283.9f4cd29a-ecef-4566-87f3-692bc32ff679.jpg",
+      "publishedAt": "2024-05-28T15:10:50Z",
+      "content": "The families of victims in the shooting at Robb Elementary School in Uvalde, Texas are bringing lawsuits to Call of Duty developer Activision Blizzard, as well as Meta Platforms and the gun manufactu… [+2088 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Rachael Davies",
+      "title": "How to stop Meta training its AI using your Facebook data",
+      "description": "Content shared on Meta’s social media platforms, like Instagram and Facebook, is being used for the company’s AI training. Instagram… Continue reading How to stop Meta training its AI using your Facebook data\nThe post How to stop Meta training its AI using yo…",
+      "url": "https://readwrite.com/how-to-stop-meta-training-its-ai-using-your-facebook-data/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/Meta-AI-training-featured.jpeg",
+      "publishedAt": "2024-05-28T09:33:41Z",
+      "content": "Content shared on Meta’s social media platforms, like Instagram and Facebook, is being used for the company’s AI training.\r\nInstagram and Facebook users should have recently received a notification i… [+1592 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Dell Cameron, Andrew Couts",
+      "title": "Mysterious Hack Destroyed 600,000 Internet Routers",
+      "description": "Plus: A whistleblower claims the Biden administration falsified a report on Gaza, “Operation Endgame” disrupts the botnet ecosystem, and more.",
+      "url": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
+      "urlToImage": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/191:100/w_1280,c_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
+      "publishedAt": "2024-06-01T10:30:00Z",
+      "content": "If you have a crypto wallet containing a fortune but forgot the password, all may not be lost. This week, a pair of researchers revealed how they cracked an 11-year-old password to a crypto wallet co… [+5576 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "nicholas.sutrich@futurenet.com (Nicholas Sutrich)",
+      "title": "Summer Games Fest has already begun for the Meta Quest 3",
+      "description": "The Meta Quest 3 is getting loads of new updates and new games coming soon, including Hitman 3, a new Beat Saber OST, Netflix, Supernatural MR mode, and more.",
+      "url": "https://www.androidcentral.com/gaming/virtual-reality/summer-games-fest-has-already-begun-for-the-meta-quest-3",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JMBJbtvSX6Q7LYd55YEisP-1200-80.jpg",
+      "publishedAt": "2024-06-04T18:54:32Z",
+      "content": "What you need to know\r\n<ul><li>Several new games have been announced this week including Behemoth, Hitman 3 VR: Reloaded, Beat Saber OST 7, and more.</li><li>Supernatural is getting a mixed reality m… [+3602 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "nandika.iyerravi@futurenet.com (Nandika Ravi)",
+      "title": "Another DMA-like law is coming for Google, Meta, and others",
+      "description": "India is bringing another DMA-like bill for tech firms, laying out strict compliance obligations that can impact their business model.",
+      "url": "https://www.androidcentral.com/apps-software/india-proposes-new-digital-competition-bill",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QYMGRdX8v2NYXa85ioxbTC-1200-80.jpg",
+      "publishedAt": "2024-06-12T18:46:00Z",
+      "content": "What you need to know\r\n<ul><li>India is proposing a DMA-like law called the Digital Competition Bill, which aims to prevent companies like Google, Meta, and Amazon from dominating the market through … [+5416 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Jessica Rendall",
+      "title": "I Tried Mixed-Reality Yoga on a New Meta Quest 3 App From Alo Moves - CNET",
+      "description": "Can 3D mini yoga instructors help you improve your form? Maybe.",
+      "url": "https://www.cnet.com/health/fitness/i-tried-mixed-reality-yoga-on-a-new-meta-quest-3-app-from-alo-moves/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/bc26e0ce5cd984568bc7a7c54f149316e3b2870e/hub/2024/05/29/204c31c7-f0f2-4006-a2a0-50e819beb405/alomovesxr-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-05-30T14:15:46Z",
+      "content": "Alo Moves, the wellness and fitness platform by the yoga athleisure line Alo, is developing a new mixed-reality app for Meta Quest 3. I got to try it in Alo's store in Manhattan, and it gave me a tas… [+3371 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Nicholas Sutrich",
+      "title": "Batman Arkham Shadow ‘wasn’t worth pursuing’ if they couldn’t pull off this key Batman mechanic",
+      "description": "Batman Arkham Shadow promises to be the return to the series that fans have been asking for, wrapping up iconic action moments into a new VR package on the Meta Quest 3.",
+      "url": "https://www.androidcentral.com/gaming/virtual-reality/batman-arkham-shadow-gameplay-story-interview",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RRmKqv73hkdzUN76PBjviZ-1200-80.jpg",
+      "publishedAt": "2024-06-07T21:32:14Z",
+      "content": "To say Batman Arkham Asylum practically invented the modern third-person brawler genre is an understatement. The game has been as influential for combat in games as Dark Souls, with an endless stream… [+14601 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Katie Balevic",
+      "title": "Meta says it won't release its AI assistant in Europe because EU regulations will make it 'second rate'",
+      "description": "EU regulators want to restrict the use of Facebook and Instagram data to train Meta's AI products.",
+      "url": "https://www.businessinsider.com/meta-ai-europe-regulations-privacy-facebook-instagram-2024-6",
+      "urlToImage": "https://i.insider.com/666dc956764df161125a35e2?width=1200&format=jpeg",
+      "publishedAt": "2024-06-15T18:49:45Z",
+      "content": "Meta continues to face roadblocks in the EU.SOPA Images/Getty\r\n<ul><li>Meta said it won't launch its AI assistant in Europe following pushback from regulators.</li><li>Regulators raised privacy conce… [+1738 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "michael.hicks@futurenet.com (Michael L Hicks)",
+      "title": "The Quest 2 and 3 are getting an official stylus controller for artists and designers",
+      "description": "Drawing in VR is a lot of fun, but a Quest Touch controller isn't a very good tool for it. Logitech's new MX Ink will make drawing, designing, and note-taking much easier while using a Quest 2 or 3.",
+      "url": "https://www.androidcentral.com/gaming/virtual-reality/logitech-mx-ink-stylus-announced-quest-2-and-3",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eF6npq4XPC3TZmk6vL8YdW-1200-80.jpg",
+      "publishedAt": "2024-06-17T07:01:02Z",
+      "content": "What you need to know\r\n<ul><li>The Logitech MX Ink is a 6DoF mixed-reality stylus for $129 shipping at Meta Connect 2024.</li><li>The stylus works for both 2D drawing on an \"MX Mat\" or 3D roomscale d… [+3014 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "Typing to AI assistants might be the way to go",
+      "description": "In iOS 18, Siri will get a dedicated keyboard so you don’t have to talk to it in public. This is what AI gadgets have been missing thus far.",
+      "url": "https://www.theverge.com/2024/6/22/24180362/type-to-siri-ios-18-ai-assistants",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QOXWzefJf7vxWu_QnXGzYp19894=/0x0:2974x1983/1200x628/filters:focal(1737x973:1738x974)/cdn.vox-cdn.com/uploads/chorus_asset/file/25496797/PXL_20240618_190134494.jpg",
+      "publishedAt": "2024-06-22T12:00:00Z",
+      "content": "Typing to AI assistants might be the way to go\r\nTyping to AI assistants might be the way to go\r\n / Theres nothing more cringe than issuing voice commands when youre out and about.\r\nByVictoria Song, a… [+4341 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jordan Hart",
+      "title": "What Google, Meta, Amazon, and other tech workers should wear this summer",
+      "description": "Mark Zuckerberg, Bill Gates, and more are changing up their style for the summer, and tech workers should follow suit.",
+      "url": "https://www.businessinsider.com/summer-style-fashion-tech-workers-zuckerberg-gates-yaccarino-2024-5",
+      "urlToImage": "https://i.insider.com/6657467cd38d94707c2c098e?width=1200&format=jpeg",
+      "publishedAt": "2024-05-29T15:32:13Z",
+      "content": "It's time for tech workers to transition into their summer styles.Anadolu/Getty Images\r\n<ul><li>Tech bosses are getting noticed for their style in 2024.</li><li>As the weather heats up, tech workers … [+4140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Alvin Hemedez",
+      "title": "Will this New Arab Meta Habibi (HABIBI) Token Reach a New All-Time High This Month as Sealana Prepares to Launch?",
+      "description": "Habibi token has garnered attention recently, despite its volatile market performance. Over the past week, the token plummeted by 23%,… Continue reading Will this New Arab Meta Habibi (HABIBI) Token Reach a New All-Time High This Month as Sealana Prepares to …",
+      "url": "https://readwrite.com/will-this-new-arab-meta-habibi-habibi-token-reach-a-new-all-time-high-this-month-as-sealana-prepares-to-launch/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/will-the-new-arab-meta-habibi-token-reach-a-new-all-time-high.jpg",
+      "publishedAt": "2024-06-20T19:37:27Z",
+      "content": "Habibi token has garnered attention recently, despite its volatile market performance. Over the past week, the token plummeted by 23%, with an additional 13% drop in a single day.\r\nSimilarly, the pas… [+3784 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Hannah Getahun",
+      "title": "Meta is testing out a feature that could make Instagram more like YouTube",
+      "description": "Instagram is rolling out a feature for some users that forces them to sit through an ad. The ad strategy is similarly employed by YouTube.",
+      "url": "https://www.businessinsider.com/instagram-testing-unskippable-ads-feature-youtube-threads-tiktok-2024-6",
+      "urlToImage": "https://i.insider.com/665e5a221cd3b1779042eed0?width=1200&format=jpeg",
+      "publishedAt": "2024-06-04T01:06:06Z",
+      "content": "Instagram is testing out unskippable adsSilas Stein/picture alliance via Getty Images // Thomas Trutschel/Photothek via Getty Images\r\n<ul><li>Instagram is testing a feature that makes some ads unskip… [+2208 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Katie Balevic",
+      "title": "Meta's election tools have been blocked over privacy concerns ahead of European Parliament elections",
+      "description": "A government watchdog suspended two of Meta's election products ahead of the European election, citing concerns about voter data safety.",
+      "url": "https://www.businessinsider.com/meta-election-tool-voter-privacy-user-data-collection-european-union-2024-6",
+      "urlToImage": "https://i.insider.com/665cdafe1cd3b1779042604d?width=1200&format=jpeg",
+      "publishedAt": "2024-06-02T21:19:37Z",
+      "content": "Meta uses public Instagram and Facebook photos to train its AI modelsAnadolu\r\n<ul><li>Spain's data watchdog suspended Meta's election products ahead of an EU vote.</li><li>The agency expressed alarm … [+2227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Apple and Meta have discussed AI partnership, WSJ reports",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d91a23f-a97b-4f6f-89b3-f670822e9644",
+      "urlToImage": null,
+      "publishedAt": "2024-06-23T09:41:14Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Apple and Meta have discussed AI partnership, WSJ reports",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_350e28fa-8456-4dca-9957-0f148ec0bad2",
+      "urlToImage": null,
+      "publishedAt": "2024-06-23T09:41:14Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Laura Bratton, Quartz",
+      "title": "Google Set to Make Its Largest Acquisition Ever, Threatening Microsoft",
+      "description": "Google parent Alphabet is reportedly making headway in its bid to acquire the $30 billion marketing software company HubSpot. That deal, which would be Google’s largest-ever acquisition, is part of the company’s strategy to compete with Microsoft in the cloud…",
+      "url": "https://gizmodo.com/google-acquisition-hubspot-rival-microsoft-cloud-market-1851499164",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/97cef0cc8ac226e184de9cde7cc1164f.jpg",
+      "publishedAt": "2024-05-24T14:32:20Z",
+      "content": "Google parent Alphabet is reportedly making headway in its bid to acquire the $30 billion marketing software company HubSpot. That deal, which would be Googles largest-ever acquisition, is part of th… [+1598 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Paresh Dave",
+      "title": "A Nonprofit Tried to Fix Tech Culture—but Lost Control of Its Own",
+      "description": "Two ex-Facebook employees founded the nonprofit Integrity Institute to clean up tech platforms. Now it’s reeling amid fights on Slack and one founder’s resignation after an external HR investigation.",
+      "url": "https://www.wired.com/story/integrity-institute-nonprofit-tried-to-fix-tech-culture-lost-control/",
+      "urlToImage": "https://media.wired.com/photos/66567117e365559f1b2cd7d8/191:100/w_1280,c_limit/integrity6.jpg",
+      "publishedAt": "2024-05-29T18:25:33Z",
+      "content": "Allen, a data scientist, and Massachi, a software engineer, worked for nearly four years at Facebook on some of the uglier aspects of social media, combating scams and election meddling. They didnt k… [+3606 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Vittoria Elliott",
+      "title": "A Former President's Daughter Used X to Bombard South Africa With Conspiracy Theories",
+      "description": "A vast majority of the election-related disinformation a South African watchdog group identified came from X, where Duduzile Zuma-Sambudla posted a fake video featuring a Donald Trump endorsement.",
+      "url": "https://www.wired.com/story/south-africa-x-twitter-disinformation/",
+      "urlToImage": "https://media.wired.com/photos/665a1186f619fa7257708e68/191:100/w_1280,c_limit/Duduzile-Zuma-X-Disinfo-Politics-1239917807.jpg",
+      "publishedAt": "2024-06-03T20:55:18Z",
+      "content": "On March 9, Duduzile Zuma-Sambudla, daughter of former South African president Jacob Zuma, tweeted a video that purported to show former US president Donald Trump encouraging all South Africans to vo… [+2827 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Thomas Macaulay",
+      "title": "Meta hit by EU complaint over ‘undefined AI tech’ using personal data",
+      "description": "A powerful privacy group has filed complaints in 11 EU countries about Meta’s plans to train AI models on personal data — without requesting consent from users. NOYB (none of your business) took the legal action over proposed changes to Meta’s privacy policy,…",
+      "url": "https://thenextweb.com/news/noyb-files-11-eu-privacy-complaints-against-meta",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F06%2Fimage.jpeg&signature=6cf33048f27e37a22798bbb42bea21f3",
+      "publishedAt": "2024-06-06T09:35:13Z",
+      "content": "A powerful privacy group has filed complaints in 11 EU countries about Metas plans to train AI models on personal data without requesting consent from users.\r\nNOYB (none of your business) took the le… [+2262 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Angela Watercutter",
+      "title": "The Limits of the AI-Generated 'Eyes on Rafah' Image",
+      "description": "The “All Eyes on Rafah” image went viral on social media this week, with over 47 million shares on Instagram alone. It's bringing up tough questions about the power of the visuals of war and AI.",
+      "url": "https://www.wired.com/story/the-limits-of-the-ai-generated-eyes-on-rafah-image/",
+      "urlToImage": "https://media.wired.com/photos/6658f42e98d18af46b82cd65/191:100/w_1280,c_limit/Rafah-Viral-AI-Image-Culture-2154341860.jpg",
+      "publishedAt": "2024-05-31T11:00:00Z",
+      "content": "As All eyes on Rafah circulated, Shayan Sardarizadeh, a journalist with BBC Verify, posted on X that it has now become the most viral AI-generated image Ive ever seen. Ironic, then, that all those ey… [+3451 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Morgan Meaker",
+      "title": "Russia Is Targeting Germany With Fake Information as Europe Votes",
+      "description": "A European Commission spokesperson says Russia is focusing on Germany more than any other EU country—and estimates the Kremlin is spending €1 billion on disinformation campaigns.",
+      "url": "https://www.wired.com/story/european-union-elections-russia-germany-disinformation-campaigns/",
+      "urlToImage": "https://media.wired.com/photos/66623894549b95006638a732/191:100/w_1280,c_limit/060624-politics-eu-elections-germany-russia-disinfo.jpg",
+      "publishedAt": "2024-06-07T15:55:55Z",
+      "content": "With European Union elections underway, Germany is the EU country most under attack by Russian disinformation campaigns, a spokesperson for the European Commission tells WIRED.\r\nThe warning comes day… [+3925 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Owen Good",
+      "title": "Just Dance goes to virtual reality with Just Dance VR: Welcome to Dancity",
+      "description": "Despite an annual 15-year history, for some reason Ubisoft’s Just Dance franchise has never gotten a virtual reality release until… Continue reading Just Dance goes to virtual reality with Just Dance VR: Welcome to Dancity\nThe post Just Dance goes to virtual …",
+      "url": "https://readwrite.com/just-dance-vr-version-dancity-release-date/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/Screenshot-2024-06-11-at-4.09.33 PM.png",
+      "publishedAt": "2024-06-11T20:15:24Z",
+      "content": "Despite an annual 15-year history, for some reason Ubisofts Just Dance franchise has never gotten a virtual reality release until now. That changes with Just Dance VR: Welcome to Dancity changes this… [+1472 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Paul McNally",
+      "title": "Quest 3 v66 update – what changes does it bring to Meta’s flagship VR headset?",
+      "description": "Meta is bringing updates and new features to its Quest 3 headset at a fair old rate and as good… Continue reading Quest 3 v66 update – what changes does it bring to Meta’s flagship VR headset?\nThe post Quest 3 v66 update – what changes does it bring to Meta’s…",
+      "url": "https://readwrite.com/quest-3-v66-update-what-changes-does-it-bring-to-metas-flagship-vr-headset/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/04/meta_quest_3_glamour.jpg",
+      "publishedAt": "2024-06-05T09:55:03Z",
+      "content": "Meta is bringing updates and new features to its Quest 3 headset at a fair old rate and as good as these features are, we arent even seeing the really big stuff it has planned that could bring its UI… [+2217 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Suswati Basu",
+      "title": "WhatsApp update adds three new features for better group video calls",
+      "description": "An upcoming WhatsApp update is introducing three new features designed for better group calls and video chats. Originally a text-only… Continue reading WhatsApp update adds three new features for better group video calls\nThe post WhatsApp update adds three ne…",
+      "url": "https://readwrite.com/whatsapp-update-new-features-video-group-calls/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/WhatsApp-update-adds-three-new-features-for-better-group-video-calls.png",
+      "publishedAt": "2024-06-14T17:36:57Z",
+      "content": "An upcoming WhatsApp update is introducing three new features designed for better group calls and video chats. Originally a text-only platform, the messaging service owned by Meta, started offering c… [+2032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "ChatGPT Answers Programming Questions Incorrectly 52% of the Time: Study",
+      "description": "Artificial intelligence chatbots like OpenAI’s ChatGPT are being sold as revolutionary tools that can help workers become more efficient at their jobs, perhaps replacing those people entirely in the future. But a stunning new study has found ChatGPT answers c…",
+      "url": "https://gizmodo.com/chatgpt-answers-wrong-programming-openai-52-study-1851499417",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/20a525d15687b2770d2fc79aea5a8ea7.jpg",
+      "publishedAt": "2024-05-24T17:10:00Z",
+      "content": "Artificial intelligence chatbots like OpenAIs ChatGPT are being sold as revolutionary tools that can help workers become more efficient at their jobs, perhaps replacing those people entirely in the f… [+2677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "nicholas.sutrich@futurenet.com (Nicholas Sutrich)",
+      "title": "The best VR game just got a massive Quest 3 graphics update",
+      "description": "We called Asgard's Wrath 2 the best VR game ever made when it launched at the end of 2023, and the long-awaited Quest 3 graphics update is finally here.",
+      "url": "https://www.androidcentral.com/gaming/virtual-reality/asgards-wrath-2-meta-quest-3-update",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NzGb7gBzJUfAUdVZenrrLk-1200-80.jpg",
+      "publishedAt": "2024-05-28T21:17:53Z",
+      "content": "What you need to know\r\n<ul><li>Asgard's Wrath 2's Meta Quest 3 update is finally out, with v5.0.1535650 totaling 7.8GB of updated content.</li><li>The new update includes upgraded textures and other … [+3836 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kwan Wei Kevin Tan",
+      "title": "Elon Musk just spent a chunk of his Memorial Day weekend needling Meta's AI chief on X",
+      "description": "\"What 'science' have you done in the past 5 years?\" Musk asked Meta's chief AI scientist Yann LeCun.",
+      "url": "https://www.businessinsider.com/elon-musk-spent-memorial-day-weekend-needling-meta-ai-chief-2024-5",
+      "urlToImage": "https://i.insider.com/66558f77a961b37edf3a2e60?width=1200&format=jpeg",
+      "publishedAt": "2024-05-28T09:04:35Z",
+      "content": "xAI founder Elon Musk (left) and Meta's AI chief Yann LeCun (right).Steve Granitz/FilmMagic via Getty Images; Kevin Dietsch via Getty Images\r\n<ul><li>Meta's AI chief Yann LeCun is an award-winning co… [+2404 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "James Spillane",
+      "title": "As WIF and FLOKI Lose Momentum, Meme Coin Trend Shifts to Shiba Shootout",
+      "description": "Meta Description: Amid shifting meme coin trends, Shiba Shootout has become a token to watch for its utility, community engagement,… Continue reading As WIF and FLOKI Lose Momentum, Meme Coin Trend Shifts to Shiba Shootout\nThe post As WIF and FLOKI Lose Momen…",
+      "url": "https://readwrite.com/as-wif-and-floki-lose-momentum-meme-coin-trend-shifts-to-shiba-shootout/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/Unleash-the-Wild-West-with-Shiba-Shootout.jpg",
+      "publishedAt": "2024-06-16T05:06:53Z",
+      "content": "Meta Description: Amid shifting meme coin trends, Shiba Shootout has become a token to watch for its utility, community engagement, and a clear roadmap.\r\nAlthough projects like dogwifhat (WIF) and FL… [+5097 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Sarah Jackson",
+      "title": "The historic rise of Facebook in photos — from a Harvard dorm room to one of the world's biggest companies",
+      "description": "Facebook turned 20 years old this year. Here's a look at its history, from a Harvard dorm room to one of the world's biggest companies.",
+      "url": "https://www.businessinsider.com/facebook-history-dorm-room-photos-mark-zuckerberg",
+      "urlToImage": "https://i.insider.com/665f57711cd3b177904337ba?width=1200&format=jpeg",
+      "publishedAt": "2024-06-05T09:28:01Z",
+      "content": "Facebook, helmed by Mark Zuckerberg, turned 20 this year. Here's a look at where it's been and where it's headed.BI\r\n<ul><li>This is a big year for Meta: Facebook turned 20 in February.</li><li>The c… [+13414 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Time",
+      "title": "Families of Uvalde Victims Sue Meta, Video Game Maker and Gun-Maker",
+      "description": "The families of 19 victims of the Uvalde school shooting announced new lawsuits Friday against Instagram parent company Meta Platforms, the maker of the video game “Call of Duty” and the gun company that made the assault rifle used in the shooting.",
+      "url": "https://time.com/6982280/families-of-uvalde-victims-sue-meta-video-game-maker-and-gun-maker/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/violence.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2024-05-24T21:12:53Z",
+      "content": "AUSTIN, Texas The families of 19 victims of the Uvalde school shooting announced new lawsuits Friday against Instagram parent company Meta Platforms, the maker of the video game Call of Duty and the … [+4003 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Daniel Herbig",
+      "title": "Meta: Umstrukturierung und Entlassungen bei Reality Labs",
+      "description": "Meta räumt bei seinen Reality Labs auf: Durch eine Restrukturierung entstehen zwei Abteilungen. Dabei werden Stellen gestrichen.",
+      "url": "https://www.heise.de/news/Meta-Umstrukturierung-und-Entlassungen-bei-Reality-Labs-9770342.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/1/7/6/2/1/shutterstock_2157512339-03714fb0af7617d2.jpg",
+      "publishedAt": "2024-06-20T07:28:00Z",
+      "content": "Meta spaltet seine Metaverse-Abteilung Reality Labs in zwei Bereiche auf: Aus den Reality Labs wird eine Wearables-Gruppe und eine Metaverse-Gruppe, berichtet das Technikmagazin The Verge. Im Rahmen … [+1794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "nandika.iyerravi@futurenet.com (Nandika Ravi)",
+      "title": "Uh-oh, Instagram is testing ads and you can't skip them",
+      "description": "Instagram is testing new ads on its platform, and Reddit users are expressing frustration. Is it time to quit the app?",
+      "url": "https://www.androidcentral.com/apps-software/uh-oh-instagram-is-testing-ads-and-you-cant-skip-them",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tMebThsixqfiJhikkxFhTW-1200-80.jpg",
+      "publishedAt": "2024-06-03T20:04:17Z",
+      "content": "Meta, the company that owns Instagram, is testing ads that cannot be skipped on its platform, according to several Reddit and X users (via Mashable).\r\nDubbed an \"Ad break,\" this feature forces ads fr… [+2546 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Farmfe.org"
+      },
+      "author": null,
+      "title": "Farm: Fast vite compatible build tool written in Rust",
+      "description": "Description will go into a meta tag in <head />",
+      "url": "https://farmfe.org/",
+      "urlToImage": "https://farmfe.org/img/farm-social-card.png",
+      "publishedAt": "2024-06-22T03:34:39Z",
+      "content": "Rich Features\r\nFarm support compiling Html, Css, Css Modules, Js/Jsx/Ts/Tsx, Json, Static Assets out of box, support sass, less, postcss, vue, react, solid by official plugins, support lazy compiling… [+26 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Javier Lacort",
+      "title": "Meta va muy en serio con los wearables. Lo demuestra lo que acaba de hacer con Reality Labs",
+      "description": "Meta ha anunciado la mayor reorganización de su división de hardware, Reality Labs, desde que fue renombrada en 2020. Desde ahora, los equipos se van a fusionar en dos grandes grupos: Metaverso y Wearables, según avanza The Verge.\n\nPor qué es importante. Esta…",
+      "url": "https://www.xataka.com/realidad-virtual-aumentada/meta-va-muy-serio-wearables-demuestra-que-acaba-hacer-reality-labs",
+      "urlToImage": "https://i.blogs.es/efddd6/meta/840_560.jpeg",
+      "publishedAt": "2024-06-19T15:11:30Z",
+      "content": "Meta ha anunciado la mayor reorganización de su división de hardware, Reality Labs, desde que fue renombrada en 2020. Desde ahora, los equipos se van a fusionar en dos grandes grupos: Metaverso y Wea… [+2698 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Katie Notopoulos",
+      "title": "Facebook has a plan to win over Gen Z. Don't laugh.",
+      "description": "Facebook Marketplace is a secret weapon in winning over 20-somethings. I think Mark Zuckerberg's plan might actually work.",
+      "url": "https://www.businessinsider.com/facebook-gen-z-young-adults-meta-plan-mark-zuckerberg-2024-6",
+      "urlToImage": "https://i.insider.com/665e3c3d1cd3b1779042ec2c?width=1200&format=jpeg",
+      "publishedAt": "2024-06-04T10:28:01Z",
+      "content": "Mark Zuckerberg's Facebook is trying to reach the youngs.ANDREW CABALLERO-REYNOLDS/AFP via Getty Images; Chelsea Jia Feng/BI\r\n<ul><li>Facebook's new strategy leans more into TikTok-like Discovery and… [+3987 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jordan Hart",
+      "title": "Instagram boss says he loves Mark Zuckerberg's new style",
+      "description": "Meta's Mark Zuckerberg has shifted from typical tech attire to a trendier look, a move that Instagram's Adam Mosseri praised.",
+      "url": "https://www.businessinsider.com/instagram-adam-mosseri-loves-mark-zuckerbergs-new-style-chain-necklace-2024-6",
+      "urlToImage": "https://i.insider.com/6669bb18764df1611258f6df?width=1200&format=jpeg",
+      "publishedAt": "2024-06-12T16:49:32Z",
+      "content": "Adam Mosseri is all for Mark Zuckerberg's glow up.The Colin and Samir Show/YouTube\r\n<ul><li>Instagram boss Adam Mosseri is loving Mark Zuckerberg's new style.</li><li>Mosseri said the Meta CEO is fin… [+1560 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "techkritiko@gmail.com (Jay Bonggolto)",
+      "title": "WhatsApp finally lets you send HD photos and videos by default",
+      "description": "WhatsApp now lets you make higher quality uploads the default setting.",
+      "url": "https://www.androidcentral.com/apps-software/whatsapp-finally-lets-you-send-hd-photos-and-videos-by-default",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FZ9gNWt29dNvPWQhGWoord-1200-80.jpg",
+      "publishedAt": "2024-06-19T07:49:25Z",
+      "content": "What you need to know\r\n<ul><li>WhatsApp is introducing a feature to set HD as the default upload quality for photos and videos.</li><li>Users no longer need to attach media as documents to avoid comp… [+2266 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Paul McNally",
+      "title": "Taskmaster VR gets a last-minute delay on Steam but the Quest version will launch as planned",
+      "description": "One of the most eagerly awaited VR games of the year Taskmaster VR from Scallywag Arcade appears to have hit… Continue reading Taskmaster VR gets a last-minute delay on Steam but the Quest version will launch as planned\nThe post Taskmaster VR gets a last-minu…",
+      "url": "https://readwrite.com/taskmaster-vr-gets-a-last-minute-delay-on-steam-but-the-quest-version-will-launch-as-planned/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/taskmastervr.jpg",
+      "publishedAt": "2024-06-13T11:37:18Z",
+      "content": "One of the most eagerly awaited VR games of the year Taskmaster VR from Scallywag Arcade appears to have hit a last-minute hitch with the game due to go live on VR platforms later today.\r\nA post on t… [+1893 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "Luis Miranda",
+      "title": "Instagram está insertando anuncios que no se pueden omitir",
+      "description": "Instagram podría añadir anuncios que no se pueden omitir dentro de su aplicación para móviles. Algunas imágenes filtradas muestran que la red social está probando un tipo específico de publicidad que bloqueará el desplazamiento en el feed. De este modo, los u…",
+      "url": "http://hipertextual.com/2024/06/instagram-anuncios-obligatorios-feed-meta",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/06/instagram-anuncios-obligatorios.jpg",
+      "publishedAt": "2024-06-03T19:09:38Z",
+      "content": "Instagram podría añadir anuncios que no se pueden omitir dentro de su aplicación para móviles. Algunas imágenes filtradas muestran que la red social está probando un tipo específico de publicidad que… [+2962 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Alan Truly",
+      "title": "A free update just made the Quest 3 way better",
+      "description": "Meta significantly upgraded the Quest 3's mixed reality quality in the latest v66 update.",
+      "url": "https://www.digitaltrends.com/computing/free-update-made-quest-3-way-better/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/11/First-Encounter-might-be-the-perfect-introduction-to-mixed-reality-on-Quest-3.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-06-04T17:55:34Z",
+      "content": "Meta\r\nThe Meta Quest 3 was already one of the best VR headsets for mixed reality, while keeping costs affordable. Soon Quest 3 owners will see a big upgrade that removes the distortion that sometimes… [+3111 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "Gabriel Erard",
+      "title": "Threads lanza su API y amplía su estrategia para seguir creciendo",
+      "description": "Pese a que el furor inicial se ha aplacado bastante, Threads continúa posicionándose como la alternativa a X (Twitter) más fuerte de la actualidad. Y la red social de Meta acaba de dar un gran paso con el lanzamiento de su esperada API para desarrolladores. D…",
+      "url": "http://hipertextual.com/2024/06/threads-api-desarrolladores",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/07/threads-1-scaled.jpg",
+      "publishedAt": "2024-06-18T13:29:44Z",
+      "content": "Pese a que el furor inicial se ha aplacado bastante, Threads continúa posicionándose como la alternativa a X (Twitter) más fuerte de la actualidad. Y la red social de Meta acaba de dar un gran paso c… [+3435 chars]"
+    },
+    {
+      "source": {
+        "id": "hacker-news",
+        "name": "Hacker News"
+      },
+      "author": null,
+      "title": "Ask HN: How to revoke AI consent from Meta/IG?",
+      "description": "Comments",
+      "url": "https://news.ycombinator.com/item?id=40609838",
+      "urlToImage": null,
+      "publishedAt": "2024-06-07T15:54:32Z",
+      "content": "Objection forms,https://www.facebook.com/help/contact/6359191084165019\r\nhttps://help.instagram.com/contact/233964459562201\r\nAs for what to put inside the objection form, you can say something like:\r\n… [+329 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Meta.com"
+      },
+      "author": null,
+      "title": "Sharing new research, models, and datasets from Meta FAIR",
+      "description": "Meta FAIR is releasing several new research artifacts. Our hope is that the research community can use them to innovate, explore, and discover new ways...",
+      "url": "https://ai.meta.com/blog/meta-fair-research-new-releases/",
+      "urlToImage": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.2365-6/448635518_1624911758306045_3805978843765446485_n.png?_nc_cat=108&ccb=1-7&_nc_sid=e280be&_nc_ohc=WleQAq2qxicQ7kNvgHrJbZg&_nc_ht=scontent-bos5-1.xx&oh=00_AYCzyYTD4tyGiShXEJQwicn9kqyLJYPg6EniNgDZPErXfQ&oe=668C1C75",
+      "publishedAt": "2024-06-18T17:01:45Z",
+      "content": "Takeaways:\r\n<ul><li>Today, Meta FAIR is publicly releasing several new research artifacts. Our hope is that the research community can use them to innovate, explore, and discover new ways to apply AI… [+9710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Yúbal Fernández",
+      "title": "Cómo evitar que Meta entrene su inteligencia artificial usando tus datos de Instagram",
+      "description": "Vamos a explicarte cómo evitar que Meta entrene su inteligencia artificial usando tus datos, concretamente los de Instagram. La empresa que aglutina a Facebook, WhatsApp, Instagram y Threads lleva unos días avisando de que a partir del 26 de junio empezará a …",
+      "url": "https://www.xataka.com/basics/como-evitar-que-meta-entrene-su-inteligencia-artificial-usando-tus-datos-instagram",
+      "urlToImage": "https://i.blogs.es/aea757/insta-privacidad/840_560.jpeg",
+      "publishedAt": "2024-05-28T09:18:22Z",
+      "content": "Vamos a explicarte cómo evitar que Meta entrene su inteligencia artificial usando tus datos, concretamente los de Instagram. La empresa que aglutina a Facebook, WhatsApp, Instagram y Threads lleva un… [+2769 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Sarah Jackson",
+      "title": "5 tips from Mark Zuckerberg on how to run a company and manage your team",
+      "description": "Mark Zuckerberg's famous mantra \"Move fast and break things\" has evolved alongside the Facebook cofounder.",
+      "url": "https://www.businessinsider.com/mark-zuckerberg-management-leadership-advice-facebook-how-to-run-business",
+      "urlToImage": "https://i.insider.com/66720729087acd2be9b4df97?width=1200&format=jpeg",
+      "publishedAt": "2024-06-19T09:52:02Z",
+      "content": "Mark Zuckerberg is the richest billionaire in CaliforniaChris Unger\r\n<ul><li>Meta celebrated its 20th birthday earlier this year.</li><li>Mark Zuckerberg has been running it since cofounding Facebook… [+3338 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Makena Kelly",
+      "title": "Big Tech Is Giving Campaigns Both the Venom and the Antidote for GenAI",
+      "description": "Microsoft and Google have taught dozens of political groups how to use generative AI tools like their Copilot and Gemini chatbots, but the situation is a little complicated.",
+      "url": "https://www.wired.com/story/big-tech-microsoft-google-gen-ai-campaigns/",
+      "urlToImage": "https://media.wired.com/photos/66721630a97b95f445a18f45/191:100/w_1280,c_limit/politics_lab_big_tech_ai_campaigns.jpg",
+      "publishedAt": "2024-06-20T11:30:00Z",
+      "content": "Democratic tech leaders, like Zinc Labs executive director Matt Hodges, told me that training campaigns on these tools now could prevent headaches further down the road.\r\nWe don't want to start that … [+4335 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Enrique Pérez",
+      "title": "Nadie sabe realmente qué significa \"entrenar a la IA\", pero sí sabemos que es una excusa para aprovecharse de millones de datos",
+      "description": "Los modelos de inteligencia artificial necesitan millones de datos. Pero la estrategia de empresas como OpenAI de utilizarlos sin permiso no parece ser el camino a seguir. Por eso ahora todas las grandes empresas tecnológicas están como locas por solicitarlos…",
+      "url": "https://www.xataka.com/legislacion-y-derechos/nadie-sabe-realmente-que-significa-entrenar-a-ia-sabemos-que-excusa-para-aprovecharse-millones-datos",
+      "urlToImage": "https://i.blogs.es/d3b131/entrenar-a-la-ia/840_560.jpeg",
+      "publishedAt": "2024-06-07T10:01:40Z",
+      "content": "Los modelos de inteligencia artificial necesitan millones de datos. Pero la estrategia de empresas como OpenAI de utilizarlos sin permiso no parece ser el camino a seguir. Por eso ahora todas las gra… [+4189 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "Tech giants form AI group to counter Nvidia with new interconnect standard",
+      "description": "\"Ultra Accelerator Link\" aims to connect high-performance GPUs and servers.",
+      "url": "https://arstechnica.com/information-technology/2024/05/tech-giants-form-ai-group-to-counter-nvidia-with-new-interconnect-standard/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/datacenter_image-760x380.jpg",
+      "publishedAt": "2024-05-30T20:42:59Z",
+      "content": "3\r\nOn Thursday, several major tech companies, including Google, Intel, Microsoft, Meta, AMD, Hewlett Packard Enterprise, Cisco, and Broadcom, announced the formation of the Ultra Accelerator Link (UA… [+2999 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Rachael Davies",
+      "title": "Name for Meta’s more affordable VR headset leaked",
+      "description": "The name of Meta’s next – and rumoured to be more affordable – virtual reality Quest headset has seemingly been… Continue reading Name for Meta’s more affordable VR headset leaked\nThe post Name for Meta’s more affordable VR headset leaked appeared first on Re…",
+      "url": "https://readwrite.com/name-for-metas-more-affordable-vr-headset-leaked/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/Meta-Quest-Pro.jpeg",
+      "publishedAt": "2024-06-01T10:29:44Z",
+      "content": "The name of Meta’s next and rumoured to be more affordable virtual reality Quest headset has seemingly been leaked.\r\nMeta’s upcoming mixed reality headset will apparently be called the Quest 3S. The … [+1676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "BeauHD",
+      "title": "Nvidia Hits $3 Trillion Market Cap On Back of AI Boom",
+      "description": "Nvidia has reached a market cap of $3 trillion, surpassing Apple to become the second-largest public company behind Microsoft. CNBC reports: Nvidia's milestone is the latest stunning mark in a run that has seen the stock soar more than 3,224% over the past fi…",
+      "url": "https://news.slashdot.org/story/24/06/05/2041224/nvidia-hits-3-trillion-market-cap-on-back-of-ai-boom",
+      "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+      "publishedAt": "2024-06-05T22:30:00Z",
+      "content": "Nvidia's milestone is the latest stunning mark in a run that has seen the stock soar more than 3,224% over the past five years. The company will split its stock 100-for-1 later this month. Apple was … [+622 chars]"
+    }
+  ]
+}

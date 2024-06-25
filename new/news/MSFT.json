@@ -1,0 +1,1308 @@
+{
+  "status": "ok",
+  "totalResults": 1056,
+  "ticker": "MSFT",
+
+  "articles": [
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Matthew Fox",
+      "title": "A single customer made up 19% of Nvidia's revenue last year. UBS thinks it's Microsoft.",
+      "description": "Nvidia has a handful of unnamed customers that are making up a massive chunk of its revenue base, according to new disclosures in its 10-Q filing.",
+      "url": "https://www.businessinsider.com/nvidia-stock-mystery-customer-microsoft-ubs-revenue-h100-gpu-chips-2024-5",
+      "urlToImage": "https://i.insider.com/6616be9216bde8d4ead75ba5?width=1200&format=jpeg",
+      "publishedAt": "2024-05-31T14:35:33Z",
+      "content": "Slaven Vlasic/Getty Images for The New York Times; Chelsea Jia Feng/BI\r\n<ul>\n<li>Recent disclosures from Nvidia highlight just how concentrated its customer base is.</li>\n<li>The company said just tw… [+2111 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "As Nvidia, Apple Grab Headlines, This Mag 7 Lays Down AI 'Bedrock'",
+      "description": "While laying an AI foundation with Amazon Bedrock, Amazon sets up new buy point.",
+      "url": "https://www.investors.com/research/ibd-stock-analysis/amazon-stock-ai-bedrock-aws/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/06/Stock-earthlayersrock-generatedai-01-adobe.jpg",
+      "publishedAt": "2024-06-20T13:52:07Z",
+      "content": "Much of the buzz around Magnificent Seven stocks like Nvidia (NVDA), Microsoft (MSFT), Apple (AAPL), Alphabet (GOOGL) and Meta Platforms (META) stems from the boom in artificial intelligence. Meanwhi… [+2708 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brad Smith",
+      "title": "Nvidia's stock plunge erases $118B in market cap",
+      "description": "Nvidia's (NVDA) reign as the most valuable publicly traded company was brief. The semiconductor giant extended its losses, shedding $118 billion in market...",
+      "url": "https://finance.yahoo.com/video/nvidias-stock-plunge-erases-118b-132811339.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5YQzstZzXSZB3QCsVVcXcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/03d12310-2fd2-11ef-8e6f-6a686236bd44",
+      "publishedAt": "2024-06-21T13:28:11Z",
+      "content": "Nvidia's (NVDA) reign as the most valuable publicly traded company was brief. The semiconductor giant extended its losses, shedding $118 billion in market capitalization. The company, which recently … [+3169 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Mark Vickery",
+      "title": "NVIDIA Splits 10-to-1; Non-farm Payrolls on Deck for Friday",
+      "description": "NVIDIA still carries a Zacks Rank of #1 (Strong Buy), with no fewer than 10 earnings estimate upgrades having been made in the last 30 days alone.",
+      "url": "https://finance.yahoo.com/news/nvidia-splits-10-1-non-221600600.html",
+      "urlToImage": "https://media.zenfs.com/en/zacks.com/164f1a93970124f2f1f2573f6dbf7cf8",
+      "publishedAt": "2024-06-06T22:16:00Z",
+      "content": "Thursday, June 6th, 2024\r\nMarket indices took a breather today. Only the Dow closed in the green on a tepid trading day overall, +0.20%, while the S&amp;P 500 finished -0.02%, the Nasdaq down -0.09% … [+3176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Joseph Adinolfi",
+      "title": "Popular tech ETF forced to dump Apple stock, buy Nvidia in upcoming rebalancing",
+      "description": "Nvidia will take the No. 2 spot in the Technology Select Sector SPDR ETF following a close race",
+      "url": "https://www.marketwatch.com/story/popular-tech-etf-forced-to-dump-apple-stock-buy-nvidia-in-upcoming-rebalancing-00bcd294",
+      "urlToImage": "https://images.mktw.net/im-52690823/social",
+      "publishedAt": "2024-06-17T17:49:00Z",
+      "content": "A major shakeup is coming to a popular exchange-traded fund that tracks technology stocks. Following Fridays race-to-the-finish close, State Street Global Advisors has confirmed that Microsoft Corp. … [+2514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "finance.yahoo.com",
+      "title": "Could This \"Magnificent Seven\" Stock Become the First $10 Trillion Company by 2035?",
+      "description": "Microsoft (NASDAQ: MSFT) hit a new all-time high on Tuesday in lockstep with a broader market rally. A few days earlier, during an event at the new Microsoft campus on May 20, the tech giant introduced a lineup of Windows personal computers (PCs) designed for…",
+      "url": "https://biztoc.com/x/6358ca7d015d85f4",
+      "urlToImage": "https://c.biztoc.com/p/6358ca7d015d85f4/s.webp",
+      "publishedAt": "2024-05-26T19:42:07Z",
+      "content": "Microsoft (NASDAQ: MSFT) hit a new all-time high on Tuesday in lockstep with a broader market rally. A few days earlier, during an event at the new Microsoft campus on May 20, the tech giant introduc… [+302 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Philip van Doorn",
+      "title": "Why Apple may actually be early to implement useful AI technology",
+      "description": "Also, Apple’s bonds, Musk’s money, how to limit stock-market-concentration risk, and the Moneyist’s advice for escaping a debt trap.",
+      "url": "https://www.marketwatch.com/story/why-apple-may-actually-be-early-to-implement-useful-ai-technology-d6d2a977",
+      "urlToImage": "https://images.mktw.net/im-24860757/social",
+      "publishedAt": "2024-06-14T15:24:00Z",
+      "content": "This week Investors showed how thrilled they were with Apple Inc.s Worldwide Developers Conference on Monday, when executives described several artificial-intelligence initiatives for the iPhone. The… [+6622 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "finance.yahoo.com",
+      "title": "Nvidia stock crosses $3 trillion market cap, overtakes Apple as second-largest co. in US market",
+      "description": "stock rose as much as 5% on Wednesday to reach a record high, giving the company a market cap above $3 trillion and making it the third stock to reach this milestone, joining Apple (AAPL) and Microsoft (MSFT). Wednesday's rally also saw the company briefly ov…",
+      "url": "https://biztoc.com/x/ca8679a713516eb6",
+      "urlToImage": "https://c.biztoc.com/p/ca8679a713516eb6/og.webp",
+      "publishedAt": "2024-06-05T19:54:15Z",
+      "content": "stock rose as much as 5% on Wednesday to reach a record high, giving the company a market cap above $3 trillion and making it the third stock to reach this milestone, joining Apple (AAPL) and Microso… [+282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investorplace.com",
+      "title": "Microsoft’s AI Edge: Why MSFT Stock Is Poised to Outperform Apple and Nvidia",
+      "description": "Microsoft (NASDAQ:MSFT) remains one of the Magnificent 7 stocks long-term growth investors should continue to hold. That’s been my view for a long time, and it’s still true.\nNow, it’s entirely possible all three could continue to race higher from here. In oth…",
+      "url": "https://biztoc.com/x/807e32b16b13d9b7",
+      "urlToImage": "https://biztoc.com/cdn/807e32b16b13d9b7_s.webp",
+      "publishedAt": "2024-06-21T11:37:17Z",
+      "content": "Microsoft (NASDAQ:MSFT) remains one of the Magnificent 7 stocks long-term growth investors should continue to hold. Thats been my view for a long time, and its still true.Now, its entirely possible a… [+135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "Market Clubhouse Morning Memo - June 12th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)",
+      "description": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.\nOur proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account pr…",
+      "url": "https://biztoc.com/x/ae7d4f652d3ee2c4",
+      "urlToImage": "https://biztoc.com/cdn/ae7d4f652d3ee2c4_s.webp",
+      "publishedAt": "2024-06-12T14:40:03Z",
+      "content": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.Our proprietary formula, exclusive to Market Clubhouse, dictates thes… [+132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Britney Nguyen",
+      "title": "AI is Microsoft's 'iPhone Moment,' analysts say",
+      "description": "Microsoft is undoubtedly a frontrunner in the generative artificial intelligence race — and it could be the tech giant’s “iPhone Moment,” analysts said.Read more...",
+      "url": "https://qz.com/microsoft-ai-deployment-copilot-azure-iphone-moment-1851543865",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f198a213179ff4d303b17e48da21ed30.jpg",
+      "publishedAt": "2024-06-17T15:51:49Z",
+      "content": "Microsoft is undoubtedly a frontrunner in the generative artificial intelligence race and it could be the tech giants iPhone Moment, analysts said.\r\nDan Ives and other Wedbush analysts raised their p… [+1822 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Madison Mills",
+      "title": "Nvidia's longevity reliant on enterprise demand: Analyst",
+      "description": "Nvidia's (NVDA) stock is under pressure Friday as a recent sell-off erases $118 billion of its market cap. This downturn follows the company's brief stint as...",
+      "url": "https://finance.yahoo.com/video/nvidias-longevity-reliant-enterprise-demand-144424357.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lTsIF.Zppi1jA990pI0KVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/7767b2d0-2fdc-11ef-a7f7-2400643304ec",
+      "publishedAt": "2024-06-21T14:44:24Z",
+      "content": "Nvidia's (NVDA) stock is under pressure Friday as a recent sell-off erases $118 billion of its market cap. This downturn follows the company's brief stint as the most valuable company in US markets. … [+4925 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Will Microsoft Corporation (MSFT) Demonstrate Resilience in a Challenging Environment?",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_13aead2d-cfdb-4714-9a11-540e43138170",
+      "urlToImage": null,
+      "publishedAt": "2024-06-17T11:45:18Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "finance.yahoo.com",
+      "title": "Rises Higher Than Market: Key Facts",
+      "description": "In the latest trading session, Microsoft (MSFT) closed at $448.37, marking a +1.31% move from the previous day. This move outpaced the S&P 500's daily gain of 0.77%. Elsewhere, the Dow gained 0.49%, while the tech-heavy Nasdaq added 0.95%.\nHeading into today,…",
+      "url": "https://biztoc.com/x/63f979884bb71c5f",
+      "urlToImage": "https://biztoc.com/cdn/63f979884bb71c5f_s.webp",
+      "publishedAt": "2024-06-18T16:16:06Z",
+      "content": "In the latest trading session, Microsoft (MSFT) closed at $448.37, marking a +1.31% move from the previous day. This move outpaced the S&amp;P 500's daily gain of 0.77%. Elsewhere, the Dow gained 0.4… [+146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Hedge Funds Are Crazy About Microsoft Corporation (MSFT)",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8c1c5f6c-0a90-4868-9f98-99844d237475",
+      "urlToImage": null,
+      "publishedAt": "2024-06-22T21:46:50Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "fool.com",
+      "title": "Nvidia Just Passed Microsoft to Become the World's Most Valuable Stock. Here's What History Says Happens Next",
+      "description": "On Tuesday, June 18, Nvidia (NVDA 3.51%) passed Microsoft (MSFT -0.45%) to become the world's most valuable publicly traded company for the very first time. As of this writing, Nvidia stock is up more than 200% in the past year and is now worth over $3.3 tril…",
+      "url": "https://biztoc.com/x/1eacf733d10829b9",
+      "urlToImage": "https://biztoc.com/cdn/1eacf733d10829b9_s.webp",
+      "publishedAt": "2024-06-20T12:02:25Z",
+      "content": "On Tuesday, June 18, Nvidia (NVDA 3.51%) passed Microsoft (MSFT -0.45%) to become the world's most valuable publicly traded company for the very first time. As of this writing, Nvidia stock is up mor… [+131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "marketbeat.com",
+      "title": "Why Smartsheet Stock is an Undervalued Gem of an Investment",
+      "description": "While Excel gives Microsoft Co. NASDAQ: MSFT the dominating position in data analysis and visualization software, as it is globally accepted through education and corporations, it is far from perfect. Regarding project management, platforms like Smartsheet In…",
+      "url": "https://biztoc.com/x/eff4cdea8a6b7065",
+      "urlToImage": "https://c.biztoc.com/274/og.png",
+      "publishedAt": "2024-06-03T15:28:05Z",
+      "content": "While Excel gives Microsoft Co. NASDAQ: MSFT the dominating position in data analysis and visualization software, as it is globally accepted through education and corporations, it is far from perfect… [+301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "zerohedge.com",
+      "title": "Futures Flat As Tech Storms Higher, ECB Rate Cut Looms",
+      "description": "Futures Flat As Tech Storms Higher, ECB Rate Cut Looms US equity futures were flat after the S&P 500 notched its 25th closing record on Wednesday, even as global tech shares plowed higher with expectations of more rate cuts adding to the ongoing frenzy around…",
+      "url": "https://biztoc.com/x/e828e1c59a16f86a",
+      "urlToImage": "https://c.biztoc.com/p/e828e1c59a16f86a/s.webp",
+      "publishedAt": "2024-06-06T12:08:05Z",
+      "content": "Futures Flat As Tech Storms Higher, ECB Rate Cut Looms\r\nUS equity futures were flat after the S&amp;P 500 notched its 25th closing record on Wednesday, even as global tech shares plowed higher with e… [+270 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "aol.com",
+      "title": "3 Unstoppable Artificial Intelligence (AI) Stocks to Buy and Hold for Decades",
+      "description": "Long-term investors must think differently when evaluating stocks. Looking decades ahead is as much about preventing unnecessary risks and losses as it is about maximizing upside. Ideally, these investors strike a compromise somewhere in the middle. Finding a…",
+      "url": "https://biztoc.com/x/83ccd18180500390",
+      "urlToImage": "https://c.biztoc.com/p/83ccd18180500390/s.webp",
+      "publishedAt": "2024-06-08T08:42:07Z",
+      "content": "Long-term investors must think differently when evaluating stocks. Looking decades ahead is as much about preventing unnecessary risks and losses as it is about maximizing upside. Ideally, these inve… [+277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investors.com",
+      "title": "Nvidia Stock Eyes These Milestones After AI Leader Surges Above 1000",
+      "description": "continues to skyrocket, surging last week above the 1,000 level for the first time last week. Its market cap raced past $2.5 trillion, less than a year after reaching the $1 trillion mark. Shares are still rising Tuesday. With the artificial intelligence lead…",
+      "url": "https://biztoc.com/x/c638f965c37da334",
+      "urlToImage": "https://c.biztoc.com/p/c638f965c37da334/og.webp",
+      "publishedAt": "2024-05-28T18:16:09Z",
+      "content": "continues to skyrocket, surging last week above the 1,000 level for the first time last week. Its market cap raced past $2.5 trillion, less than a year after reaching the $1 trillion mark. Shares are… [+288 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investorplace.com",
+      "title": "The One Company That Could Help Apple Change the World With AI",
+      "description": "Apple’s “iPhone moment” for AI is coming in just a few days... Editor’s Note: Eric, here. On Monday, Apple will host its annual Worldwide Developer Conference (WWDC) in Cupertino, California. This is where Apple provides major software updates to Apple custom…",
+      "url": "https://biztoc.com/x/1097433c4d2879ee",
+      "urlToImage": "https://c.biztoc.com/274/og.png",
+      "publishedAt": "2024-06-08T19:40:08Z",
+      "content": "Apples iPhone moment for AI is coming in just a few days...Editors Note: Eric, here. On Monday, Apple will host its annual Worldwide Developer Conference (WWDC) in Cupertino, California. This is wher… [+288 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "finance.yahoo.com",
+      "title": "Forget Nvidia: 2 Artificial Intelligence (AI) Stocks to Buy Now",
+      "description": "All eyes have been on Nvidia (NASDAQ: NVDA) over the last year, as its stock soared more than 200%. The company massively profited from a boom in artificial intelligence (AI) as its graphics processing units (GPUs) have become the go-to for developers worldwi…",
+      "url": "https://biztoc.com/x/142bb96472914874",
+      "urlToImage": "https://c.biztoc.com/p/142bb96472914874/og.webp",
+      "publishedAt": "2024-06-09T20:51:12Z",
+      "content": "All eyes have been on Nvidia (NASDAQ: NVDA) over the last year, as its stock soared more than 200%. The company massively profited from a boom in artificial intelligence (AI) as its graphics processi… [+283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investors.com",
+      "title": "Nvidia Stock Eyes These Milestones After AI Leader Surges Above 1,000",
+      "description": "continues to skyrocket, surging last week above the 1,000 level for the first time last week. Its market cap raced past $2.5 trillion, less than a year after reaching the $1 trillion mark. Shares are still rising Tuesday. With the artificial intelligence lead…",
+      "url": "https://biztoc.com/x/8a67210119388bed",
+      "urlToImage": "https://c.biztoc.com/p/8a67210119388bed/s.webp",
+      "publishedAt": "2024-05-28T13:12:05Z",
+      "content": "continues to skyrocket, surging last week above the 1,000 level for the first time last week. Its market cap raced past $2.5 trillion, less than a year after reaching the $1 trillion mark. Shares are… [+288 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "zerohedge.com",
+      "title": "5 Stocks Account For 60% Of The S&P's YTD Return: Charting The S&P 5 vs The S&P 495",
+      "description": "5 Stocks Account For 60% Of The S&P's YTD Return: Charting The S&P 5 vs The S&P 495\n \nNvidia (NVDA) accounts for 34% of the 14% SPX year-to-date gain, and five stocks have accounted for 60% of the S&P 500 total YTD return; MSFT, NVDA, GOOGL, AMZN, and META ha…",
+      "url": "https://biztoc.com/x/4ce3a153e4e83a19",
+      "urlToImage": "https://biztoc.com/cdn/4ce3a153e4e83a19_s.webp",
+      "publishedAt": "2024-06-17T19:07:00Z",
+      "content": "5 Stocks Account For 60% Of The S&amp;P's YTD Return: Charting The S&amp;P 5 vs The S&amp;P 495\r\nNvidia (NVDA) accounts for 34% of the 14% SPX year-to-date gain, and five stocks have accounted for 60… [+154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investorplace.com",
+      "title": "Apple’s AI Revolution Is Finally Here",
+      "description": "Major Apple announcement on Monday could 10X this tiny stock... Editor’s Note: Eric here. So far in the AI Revolution, Apple Inc. (AAPL) has held its AI-cards close its chest, so to speak. However, the company is now about to make a historic AI announcement. …",
+      "url": "https://biztoc.com/x/b3f23432ec8a4ffa",
+      "urlToImage": "https://c.biztoc.com/p/b3f23432ec8a4ffa/s.webp",
+      "publishedAt": "2024-06-05T19:56:07Z",
+      "content": "Major Apple announcement on Monday could 10X this tiny stock...Editors Note: Eric here. So far in the AI Revolution, Apple Inc. (AAPL) has held its AI-cards close its chest, so to speak. However, the… [+297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Insider Sale: EVP, Chief Marketing Officer Takeshi Numoto Sells Shares of Microsoft Corp (MSFT)",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d975e267-b9a5-4881-bed0-a8d165cb77b2",
+      "urlToImage": null,
+      "publishedAt": "2024-06-05T06:34:54Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hamza Shaban",
+      "title": "Investors are buying into AI, and Musk, any way they can: Morning Brief",
+      "description": "The market rally never broadened, but investors are finding ways to get in on AI.",
+      "url": "https://finance.yahoo.com/news/investors-are-buying-into-ai-and-musk-any-way-they-can-morning-brief-100048708.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BCvUvkzMlPBs7aLpnaJJ0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjE-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/4deb1fb0-2f18-11ef-b6fd-b058b9ef2b71",
+      "publishedAt": "2024-06-21T10:00:48Z",
+      "content": "This is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:\r\n<ul><li>The chart of the day\r\n</li><li>What we're watching\r\n</li><li>What we… [+3324 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Bill Stone, Contributor, \n Bill Stone, Contributor\n https://www.forbes.com/sites/bill_stone/",
+      "title": "NVIDIA Takes The Throne: Is This A Tech Bubble?",
+      "description": "NVIDIA, at over $3.1 trillion, became the world’s largest company. Tech stocks are now over 32% of the S&P 500. Fundamentals support this AI wave but not without risk.",
+      "url": "https://www.forbes.com/sites/bill_stone/2024/06/23/nvidia-takes-the-throne-is-this-a-tech-bubble/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6676e91a0883afa17f39fd7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-23T11:00:00Z",
+      "content": "Riding the artificial intelligence wave, NVIDIA (NVDA) surpassed Microsoft (MSFT) as the largest ... [+] company in the world and S&amp;P 500 for a brief period last week. (Photo by Jonathan Raa/NurP… [+8585 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Bill Stone, Contributor, \n Bill Stone, Contributor\n https://www.forbes.com/sites/bill_stone/",
+      "title": "Impact Of The Fed Meeting On Stocks",
+      "description": "May CPI helped markets shrug off the hawkish Fed meeting and send stocks to all-time highs. Economic growth is supporting earnings but soft enough for 2024 Fed cuts.",
+      "url": "https://www.forbes.com/sites/bill_stone/2024/06/16/impact-of-the-fed-meeting-on-stocks/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/666d8d836a557825f2d62c9b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-16T11:00:00Z",
+      "content": "The Feds lowered its projection to just one rate cut, but the markets swiftly disregarded the Feds ... [+] hawkish forecast. (Photo by Chip Somodevilla/Getty Images)\r\nGetty Images\r\nThe S&amp;P 500 hi… [+6095 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Bill Stone, Contributor, \n Bill Stone, Contributor\n https://www.forbes.com/sites/bill_stone/",
+      "title": "Are The Economy And Stocks Reaching Stall Speed?",
+      "description": "Data has softened on the edges, causing fear that the U.S. consumer and economic growth might be near stall speed. Several crucial indicators are reviewed for guidance.",
+      "url": "https://www.forbes.com/sites/bill_stone/2024/06/02/are-the-economy-and-stocks-reaching-stall-speed/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665b5176e2f78b6ac6801188/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-02T11:00:00Z",
+      "content": "Economic and consumer spending data have been sending mixed messages about the health the U.S. ... [+] economy and the corporate earnings outlook.\r\ngetty\r\nStocks took another breather last week, whil… [+4396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bohaishibei.com"
+      },
+      "author": "梁萧",
+      "title": "英伟达市值超越微软成为最有价值上市公司",
+      "description": "6月19日消息，据外电报道，英伟达 ( NVDA ) 市值在周二正式超越微软 ( MSFT )，成为全球最有价值的公司，而就在两周前，它刚刚从苹果( AAPL )手中夺得第二名。 英伟达今日股价上涨约…",
+      "url": "https://www.bohaishibei.com/post/92119/",
+      "urlToImage": null,
+      "publishedAt": "2024-06-19T01:31:03Z",
+      "content": "619 ( NVDA ) ( MSFT )( AAPL )\r\n3.5% 135 3.33 0.4% 3.32 \r\n 12 215% 3,400% 175% 2024 19%\r\n2023 6 13 1 \r\n20243 1 2 6 5 3 \r\n 1 3 \r\n 500 2024 \r\n 5 500 500 \r\n 500 \r\n 6 10 10 1 \r\nOpenAI 2022 ChatGPT \r\n CUDA… [+391 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Andy Mills",
+      "title": "Nvidia stock still has room to run, strategist says",
+      "description": "Tom Hulick, chief executive officer of Strategy Asset Managers, spoke with Quartz for the latest installment of our “Smart Investing” video series.Read more...",
+      "url": "https://qz.com/nvidia-stock-rally-ai-chips-strategist-1851533166",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_200,q_80,w_200/4716932d29f4ef6064940c18eaab1f3d.png",
+      "publishedAt": "2024-06-12T09:05:00Z",
+      "content": "Tom Hulick, chief executive officer of Strategy Asset Managers, spoke with Quartz for the latest installment of our Smart Investing video series.\r\nWatch the interview above and check out the transcri… [+3494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "SentinelOne Earnings Beat Views, But Full-Year Revenue Outlook Lowered",
+      "description": "SentinelOne stock fell after the cybersecurity firm reported a smaller-than-expected Q1 loss while annual recurring revenue missed.",
+      "url": "https://www.investors.com/news/technology/sentinelone-earnings-sentinelone-stock-news-q12024/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2023/12/Stock-SentinelOne-02-shutt.jpg",
+      "publishedAt": "2024-05-30T21:40:06Z",
+      "content": "SentinelOne (S) on Thursday reported a smaller-than-expected first-quarter loss while revenue topped Wall Street estimates amid lowered expectations. The cybersecurity firm missed on a key metric, se… [+1831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Up 24% YTD, What To Expect From Deutsche Bank Stock?",
+      "description": "Deutsche Bank’s stock (NYSE: DB) has gained 24% YTD, as compared to a 12% rise in the S&P500 over the same period.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/05/24/up-24-ytd-what-to-expect-from-deutsche-bank-stock/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665028a5bfbde05186b2ff4d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-24T09:00:05Z",
+      "content": "BERLIN, GERMANY - APRIL 27: The logo of German bank Deutsche Bank hangs over one of the bank's ... [+] branches on April 27, 2015 in Berlin, (Photo by Sean Gallup/Getty Images)\r\nGetty Images\r\nDeutsch… [+3262 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "What’s Next For Sunrun Stock After 25% Gains In A Month?",
+      "description": "This can be attributed to a broader rise in solar stocks, especially the ones that may benefit from increased energy demand for AI data centers.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/05/24/whats-next-for-sunrun-stock-after-25-gains-in-a-month/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66502ca553a895b5c31ec7d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-24T12:00:32Z",
+      "content": "BRAZIL - 2023/07/02: In this photo illustration, the Sunrun logo is displayed on a smartphone ... [+] screen. (Photo Illustration by Rafael Henrique/SOPA Images/LightRocket via Getty Images)\r\nSOPA Im… [+3291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "HIG Stock Is Up 26% YTD, Is It Now Fairly Valued?",
+      "description": "Amid the current financial backdrop, HIG stock has seen extremely strong gains of 100% from levels of $50 in early January 2021 to around $100 now..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/05/hig-stock-is-up-26-ytd-is-it-now-fairly-valued/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6660017a5dcd01bc4a2ab5d1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-05T09:00:21Z",
+      "content": "BRAZIL - 2023/09/03: In this photo illustration, the Hartford Financial Services logo is displayed ... [+] on a smartphone screen. (Photo Illustration by Rafael Henrique/SOPA Images/LightRocket via G… [+3352 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "With Growth Slowing, Is Li Stock Still Good Value At $21?",
+      "description": "However, Li’s growth was considerably below rival Nio which shipped 20,544 vehicles for the month, up almost 234% from 6,155 vehicles in the same month last year..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/05/with-growth-slowing-is-li-stock-still-good-value-at-21/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/666004b6860f88a87ba01368/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-05T12:00:30Z",
+      "content": "SHENZHEN, CHINA - JUNE 01: People visit Li Auto booth during the 28th Guangdong-Hong Kong-Macao ... [+] Greater Bay Area International Auto Show at the Shenzhen World Exhibition and Convention Center… [+3519 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Morgan Stanley Stock Is Trailing The S&P500 Index By 12% YTD, What To Expect?",
+      "description": "Morgan Stanley’s stock (NYSE: MS) has gained 2% YTD, as compared to the 14% rise in the S&P500 over the same period.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/17/morgan-stanley-stock-is-trailing-the-sp500-index-by-12-ytd-what-to-expect/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/666fbddb16a49a78f260dfd5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-17T11:00:07Z",
+      "content": "NEW YORK, NEW YORK - JANUARY 17: The Morgan Stanley headquarters building is seen on January 17, ... [+] 2023 in New York City. (Photo by Michael M. Santiago/Getty Images)\r\nGetty Images\r\nMorgan Stanl… [+3141 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "American International Group Stock Is Up 9% YTD, What’s Next?",
+      "description": "Notably, American International Group’s peer Travelers (NYSE: TRV) is also up 9% YTD. Overall, at its current price of $74 per share, AIG is trading 13% below its fair..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/21/american-international-group-stock-is-up-9-ytd-whats-next/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6459d3c635b6e318942796dd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-21T11:15:00Z",
+      "content": "MANHATTAN, NEW YORK, UNITED STATES - 2021/05/12: Main entrance to the American International Group ... [+] (AIG) Headquarters building in Manhattan. (Photo by Erik McGregor/LightRocket via Getty Imag… [+3546 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Oracle Stock Jumped 13% In One Day, What’s Next?",
+      "description": "The spike in the ORCL stock price came after the company declared fourth quarter FY2024 (June-May) results.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/14/oracle-stock-jumped-13-in-one-day-whats-next/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/666bb9994ded061aa65eca76/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-14T11:00:00Z",
+      "content": "US multinational computer technology company Oracle's logo is pictured at the Mobile World Congress ... [+] (MWC), the telecom industry's biggest annual gathering, in Barcelona on February 27, 2024. … [+3577 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Up 5% In A Week Does Honeywell Stock Have More Room For Growth?",
+      "description": "The rise in HON stock in recent days can partly be attributed to the company’s revision of its outlook for the full-year 2024 following its acquisition..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/06/up-5-in-a-week-does-honeywell-stock-have-more-room-for-growth/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66614a0cdf3c361661f46d7e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-06T12:00:03Z",
+      "content": "BASILDON, ENGLAND - JANUARY 15: A general exterior view of the logo sign on the Honeywell ... [+] International Inc office building on January 15, 2024 in Basildon, United Kingdom. (Photo by John Kee… [+3504 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Charles Schwab Stock Is Up 8% YTD, Where Is It Headed?",
+      "description": "Amid the current financial backdrop, SCHW stock has shown strong gains of 35% from levels of $55 in early January 2021 to around $75 now, vs. an increase of about..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/11/charles-schwab-stock-is-up-8-ytd-where-is-it-headed/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/5e1ff6d2348cc900086a99c8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-11T15:14:08Z",
+      "content": "Close-up of sign with logo at Charles Schwab financial adviser branch in Pleasanton, California, ... [+] March 26, 2018. (Photo by Smith Collection/Gado/Getty Images)\r\nGetty\r\nCharles Schwab stock (NY… [+3414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "What’s Next For Southwest Stock After Elliott Management Builds Up A $2 Billion Position?",
+      "description": "Southwest has underperformed some of is peers this year, with its stock down around 5%, while Delta Air and United Airlines have seen their stock rise by over 25%.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/10/whats-next-for-southwest-stock-after-elliott-management-builds-up-a-2-billion-position/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6656cc1150c7e73f7593941e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-10T16:00:06Z",
+      "content": "LOS ANGELES, CA - MAY 24: Southwest Airlines Boeing 737-752 arrives at Los Angeles International ... [+] Airport during Memorial Day weekend on May 24, 2024 in Los Angeles, California. (Photo by Aaro… [+3175 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "What's Happening With GameStop Stock?",
+      "description": "GME stock has seen extremely strong gains of 400% from levels of $5 in early January 2021 to around $25 now, vs. an increase of about 40%..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/03/whats-happening-with-gamestop-stock/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665dbf192e3d7bd2e586e00e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-03T13:04:27Z",
+      "content": "MIAMI, FLORIDA - MAY 28: Merchandise lines the shelves of a GameStop store on May 28, 2024 in Miami, ... [+] Florida. GameStop stock jumped higher after the video game retailer announced that it had … [+3186 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Gaining 19% YTD, Where Is Goldman Sachs Stock Headed?",
+      "description": "Goldman Sachs’ stock (NYSE: GS) has gained approximately 19% YTD as compared to an 11% rise in the S&P500 index over the same period.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/05/30/gaining-19-ytd-where-is-goldman-sachs-stock-headed/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6657ec88b8de12495ebf83b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-30T12:00:00Z",
+      "content": "John Waldron, President of Goldman Sachs, speaks during the Semafor 2024 World Economy Summit in ... [+] Washington, DC in Washington, DC, April 18, 2024. (Photo by SAUL LOEB / AFP) (Photo by SAUL LO… [+3358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Dips As Gold Stock Scores Upgrade; Warren Buffett Unloads This Stock (Live Coverage)",
+      "description": "The Dow Jones was lower on the stock market today. Nvidia stock hit a fresh high as Microsoft got upgraded. Warren Buffett sold some stock.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-nasdaq-sp500-warren-buffett-nvidia-microsoft/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/05/Stock-warrenbuffett-2024-06-shutt.jpg",
+      "publishedAt": "2024-06-17T14:43:22Z",
+      "content": "The Dow Jones Industrial Average was lower as Microsoft (MSFT) slipped despite a bullish call. Gold miner Newmont (NEM) popped on an upgrade on the stock market today. Nvidia (NVDA) hit another all-t… [+5148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Sasirekha Subramanian, Contributor, \n Sasirekha Subramanian, Contributor\n https://www.forbes.com/",
+      "title": "Top 10 DJIA Stocks By Weight: Why These 3 May Be Worth Watching",
+      "description": "The top 10 stocks in the DIJA by weight are the largest companies included in the index. Check the list to see what those companies are.",
+      "url": "https://www.forbes.com/sites/investor-hub/article/top-10-dow-jones-industrial-average-djia-stocks-by-weight/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665f62e93693c3e38fd44f04/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-04T19:37:49Z",
+      "content": "The DJIA is made up of 30 blue-chip stocks.\r\ngetty\r\nThe prestigious Dow Jones Industrial Average index (DJIA), which tracks the performance of 30 U.S. blue-chip stocks, closed at a new historical hig… [+13239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Overclockers.ru"
+      },
+      "author": "Doss",
+      "title": "Microsoft ожидает, что Copilot+ PC повысит доступность генеративного ИИ для работников сферы знаний",
+      "description": "На конференции Build компания Microsoft представила ПК Copilot+, которые интегрируют возможности искусственного интеллекта в их компьютеры.",
+      "url": "https://overclockers.ru/blog/SouthSide/show/159546/Komp-jutery-s-iskusstvennym-intellektom-Microsoft-menyajut-pravila-igry",
+      "urlToImage": "https://overclockers.ru/st/legacy/blog/429212/519447_O.png",
+      "publishedAt": "2024-05-23T17:53:08Z",
+      "content": "Build Microsoft (MSFT) Copilot+, . RBC Capital Markets (Rishi Jaluria) Macquarie (Frederick Havemeyer) Market Domination, .\r\n\", \", - . , , . , : \", , , . ChatGPT, , , \"."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Anusuya Lahiri",
+      "title": "What's Going On With Arm Holdings Stock Tuesday?",
+      "description": "Arm Holdings aims to dominate Windows PC market with 50% share in 5 years, as Microsoft plans AI-enhanced PCs using Arm tech. Intel faces competition.",
+      "url": "https://www.benzinga.com/news/24/06/39157897/whats-going-on-with-arm-holdings-stock-tuesday",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/06/04/ARM.png?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-06-04T14:32:09Z",
+      "content": "Arm Holdings PlcARM aims to capture over 50% of the Windows PC market within five years, according to CEO Rene Haas.\r\nThe stock is trading lower Tuesday after closing higher by over 5% Monday.\r\nArms … [+1214 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Alexandra Canal",
+      "title": "Why Nvidia's 'gravy train' could come to 'screeching halt' after a volatile trading week",
+      "description": "The chipmaker briefly dethroned Microsoft as the world's most valuable company — but its market cap then edged lower to cap off a volatile trading week.",
+      "url": "https://finance.yahoo.com/news/why-nvidias-gravy-train-could-come-to-screeching-halt-after-a-volatile-trading-week-163713274.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/P4fYXBnQHr.RloKU9KDA9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDM-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/af3fedc0-21be-11ef-b9c4-c58c2c88e52c",
+      "publishedAt": "2024-06-21T16:37:13Z",
+      "content": "Nvidia's (NVDA) stock went on a wild ride this week as shares reversed direction from all-time highs and Wall Street continued to debate how much more the chip giant can add to its record-setting ral… [+3458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macdailynews.com"
+      },
+      "author": "MacDailyNews",
+      "title": "Apple stock extends rally setting new all-time market value record",
+      "description": "Shares of Apple in trading on Monday rose 2.23% with the company on track to close with a market cap in excess of of $3.33 trillion, more…\nThe post Apple stock extends rally setting new all-time market value record appeared first on MacDailyNews.",
+      "url": "https://macdailynews.com/2024/06/17/apple-stock-extends-rally-setting-new-all-time-market-value-record/",
+      "urlToImage": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2021/12/211207_stock_chart.png",
+      "publishedAt": "2024-06-17T19:48:13Z",
+      "content": "Shares of Apple in trading on Monday rose 2.23% with the company on track to close with a market cap in excess of of $3.33 trillion, more than any company in history, with Microsoft and Nvidia traili… [+1167 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Futures Slide On Jobs Report; GameStop Stock Plunges On Equity Offering",
+      "description": "GameStop tumbles on an equity offering, while DocuSign and Samsara are earnings movers.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-gamestop-gme-stock-2/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet2-031317-shutter.jpg",
+      "publishedAt": "2024-06-07T12:59:07Z",
+      "content": "Dow Jones futures, along with the other major stock indexes, dropped Friday as Wall Street reacted to a pivotal May jobs report from the Labor Department. GameStop (GME) stock plunged on the stock ma… [+6209 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Futures Fall; Nvidia Stock Set For More Record Highs",
+      "description": "Key earnings reports this week include Lennar, Kroger and CarMax.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-nasdaq-sp500-nvidia-stock-nvda-record-highs/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2021/09/Stock-wallstreetflag-01-adobe.jpg",
+      "publishedAt": "2024-06-17T12:38:11Z",
+      "content": "Dow Jones futures dropped, while the other major stock indexes were mixed Monday as the market flirted with all-time highs. One winner was artificial intelligence leader Nvidia (NVDA), which looked t… [+6139 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Adam Hejl",
+      "title": "Why Vail Resorts (MTN) Shares Are Falling Today",
+      "description": "Shares of luxury ski resort company Vail Resorts (NYSE:MTN) fell 14.3% in the morning session after the company reported first quarter earnings results. Its ...",
+      "url": "https://finance.yahoo.com/news/why-vail-resorts-mtn-shares-153728557.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sRGHLTqJ4y2Slr1uvT_pmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/24ecf1f1a47aa87f1ef6ba28b2caf0f0",
+      "publishedAt": "2024-06-07T15:37:28Z",
+      "content": "Why Vail Resorts (MTN) Shares Are Falling Today\r\nWhat Happened:\r\nShares of luxury ski resort company Vail Resorts (NYSE:MTN) fell 14.3% in the morning session after the company reported first quarter… [+1649 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Anusuya Lahiri",
+      "title": "OpenAI's Apple Deal Sparks Concerns In Microsoft, Could Shift AI Market Dynamics",
+      "description": "Microsoft concerned about potential Apple-OpenAI deal as it could impact its own AI ambitions. Altman aims to replace Google as Apple's search partner.",
+      "url": "https://www.benzinga.com/news/24/05/39109729/openais-apple-deal-sparks-concerns-in-microsoft-could-shift-ai-market-dynamics",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/05/31/Open-AI-CEO-Sam-Altman.jpeg?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-05-31T14:22:58Z",
+      "content": "Microsoft CorpMSFT is concerned about some of OpenAIs business dealings, particularly a potential agreement between OpenAI and Apple IncAAPL.\r\nSatya Nadella recently met with OpenAI CEO Sam Altman to… [+1912 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Jordan Robertson",
+      "title": "Warren Buffett Drives 10-Year-Old Cadillac Bought With Hail Damage",
+      "description": "",
+      "url": "https://www.benzinga.com/general/24/05/39040353/warren-buffett-drives-10-year-old-cadillac-bought-with-hail-damage",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/05/28/Warren-Buffett.jpeg?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-05-28T16:30:17Z",
+      "content": "Despite having the financial means to purchase any vehicle, billionaire investor Warren Buffett continues using a modest car with an interesting history.\r\nDespite being the sixth-richest person globa… [+1954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Reuters",
+      "title": "Apple overtakes Microsoft to return as world's most valuable company",
+      "description": "Its shares rose more than 2% to $211.75, giving it a market valuation of $3.25 trillion.  Apple shares had surged to an all-time high in the previous session...",
+      "url": "https://finance.yahoo.com/news/apple-beats-microsoft-return-worlds-134833825.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/58d08fb78a5c914d48a288dd1c1ec784",
+      "publishedAt": "2024-06-12T13:48:33Z",
+      "content": "(Reuters) -Apple (AAPL) once again became the world's most valuable company on Wednesday, dethroning Microsoft (MSFT) from the top spot, as the iPhone maker pushed ahead in a race to dominate artific… [+1517 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Nvidia's One-Day Loss Exceeds The Value Of 85% Of The S&P 500",
+      "description": "Think you had a bad day?",
+      "url": "https://www.investors.com/etfs-and-funds/sectors/sp-500-nvidias-one-day-loss-exceeds-the-value/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/06/Stock-Nvidia-cornice-adobe.jpg",
+      "publishedAt": "2024-06-21T12:00:44Z",
+      "content": "Think you had a bad day? It's nothing compared to the drop Thursday by S&amp;P 500 stock Nvidia.\r\nXNOW PLAYINGBeating The Market: How To Find Outperforming StocksShares of the AI poster child dropped… [+2622 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "Nvidia stock crosses $3 trillion market cap, overtakes Apple as second-largest co. in US market",
+      "description": "Nvidia stock rises to another record high as the AI trade continues to dominate markets.",
+      "url": "https://finance.yahoo.com/news/nvidia-stock-crosses-3-trillion-market-cap-overtakes-apple-as-second-largest-co-in-us-market-191207506.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oo3AhJBc83TAyfoH8pE76g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/5b3e4690-2146-11ef-97df-2f3b499b3ad9",
+      "publishedAt": "2024-06-05T19:12:07Z",
+      "content": "Nvidia (NVDA) stock rose as much as 5% on Wednesday to reach a record high, giving the company a market cap above $3 trillion and making it the third stock to reach this milestone, joining Apple (AAP… [+3323 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Josh Schafer",
+      "title": "The stock market rally has been all about large caps",
+      "description": "The largest stocks in the S&P 500 have seen the biggest gains in 2024 as the group has shown stronger earnings growth and a resilience to higher interest...",
+      "url": "https://finance.yahoo.com/news/the-stock-market-rally-has-been-all-about-large-caps-080019421.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jTjUdy.OR3j3neFC6Es2jg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/d15c6820-26cd-11ef-bfe8-d9bfee58079e",
+      "publishedAt": "2024-06-11T08:00:19Z",
+      "content": "Large-cap stocks have been the clear leader in the 2024 stock market rally.\r\nBespoke Investment Group recently broke the S&amp;P 500's year-to-date performance (^GSPC) into 10 baskets of 50 stocks, o… [+2998 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "How Xpeng’s Bet On Premium Vehicles And Services Is Paying Off",
+      "description": "Chinese luxury electric vehicle maker Xpeng stock posted a better-than-expected set of Q1 2024 results.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/05/24/how-xpengs-bet-on-premium-vehicles-and-services-is-paying-off/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/631180e30202178dd39de1cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-24T13:00:17Z",
+      "content": "BRAZIL - 2022/08/24: In this photo illustration, the Guangzhou Xiaopeng Motors Technology (Xpeng) ... [+] logo is displayed on a smartphone screen. (Photo Illustration by Rafael Henrique/SOPA Images/… [+4249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Rising 9% This Year, What Lies Ahead For American Eagle Stock Following Q1 Earnings?",
+      "description": "We expect the stock to likely trade higher with both revenues and earnings beating market expectations in the upcoming first quarter results.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/05/29/rising-9-this-year-what-lies-ahead-for-american-eagle-stock-following-q1-earnings/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6656cdca91fabd2cd6cdc85e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-29T13:00:26Z",
+      "content": "HONG KONG, CHINA - 2024/05/03: Pedestrians walk past the American clothing and accessories retailer ... [+] American Eagle store in Hong Kong. (Photo by Sebastian Ng/SOPA Images/LightRocket via Getty… [+5245 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "How Are CVS Health’s Profit Margins Trending?",
+      "description": "This can primarily be attributed to the opioid litigation charges included in the 2022 results.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/05/29/how-are-cvs-healths-profit-margins-trending/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6656ccd996c0125df4884a73/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-29T12:00:51Z",
+      "content": "CVS Pharmacy logo is seen at store in Florida Keys, United States on May 7, 2024. (Photo by Jakub ... [+] Porzycki/NurPhoto via Getty Images)\r\nNurPhoto via Getty Images\r\nCVS Health (NYSE: CVS) saw it… [+4203 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Salesforce Stock Dropped More Than 20% In One Day, What’s Next?",
+      "description": "The sharp drop in the CRM stock price came after the company declared its first quarter (FY 2025) earnings. It missed the revenue consensus..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/03/salesforce-stock-dropped-more-than-20-in-one-day-whats-next/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665d3fb1401ff6c4d66021d5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-03T09:00:00Z",
+      "content": "BRAZIL - 2024/05/30: In this photo illustration, the Salesforce logo is seen displayed on a laptop ... [+] screen. (Photo Illustration by Rafael Henrique/SOPA Images/LightRocket via Getty Images)\r\nSO… [+3591 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Up 14% YTD, How Will Oracle Stock Trend After Q4 Results?",
+      "description": "The technology giant outperformed the street estimates in the last quarter, with total revenues increasing 7% y-o-y to $13.3 billion.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/06/up-14-ytd-how-will-oracle-stock-trend-after-q4-results/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66614b49f9749f2953223432/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-06T13:00:03Z",
+      "content": "The Oracle logo is on display at their pavilion at the Mobile World Congress in Barcelona, Spain, on ... [+] February 28, 2024. Oracle, an American multinational computer technology company, is showc… [+4239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Will Sirius Stock See A Recovery After A 53% Fall This Year?",
+      "description": "After a 53% fall since the beginning of the year, at the current price of nearly $3 per share, we believe Sirius XM stock (NASDAQ: SIRI), a leading provider of..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/07/will-sirius-stock-see-a-recovery-after-a-53-fall-this-year/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6662a5c493e53cbe71bae23b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-07T09:45:19Z",
+      "content": "NASHVILLE, TENNESSEE - JUNE 06: (L-R) Krista Slaubaughof and Kendra Slaubaugh of Tigirlily Gold ... [+] attend Day 1 of SiriusXM's The Music Row Happy Hour Live on The Highway at Margaritaville on Ju… [+5280 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Barclays Stock Is Up 38% YTD, What’s Next?",
+      "description": "Barclays’ stock (NYSE: BCS) has gained 38% YTD, as compared to the 11% rise in the S&P500 over the same period.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/05/28/barclays-stock-is-up-38-ytd-whats-next/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6655a6bb338778a851685784/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-28T12:30:32Z",
+      "content": "Sign for the brand and high street bank Barclays outside their Barclays Corporate Banking ... [+] headquarters at the heart of Canary Wharf financial district on 7th May 2024 in London, United Kingdo… [+3579 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Watsonx Can Help IBM Stock Gain Lost Ground",
+      "description": "IBM posted mixed Q1 2024 results last month, with revenue growing just 1.5% year-over-year to $14.46 billion, missing estimates as the consulting and infrastructure bu...",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/05/30/watsonx-can-help-ibm-stock-gain-lost-ground/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6657e47599c85b64565a0c5a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-30T09:00:00Z",
+      "content": "Watsonx AI IBM generative AI platform displayed on a smartphone. On 10 August 2023 in Brussels, ... [+] Belgium. (Photo illustration by Jonathan Raa/NurPhoto via Getty Images)\r\nNurPhoto via Getty Ima… [+4555 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Robert DeFrancesco, Contributor, \n Robert DeFrancesco, Contributor\n https://www.forbes.com/sites/robertdefrancesco/",
+      "title": "Microsoft Steadily Ramps Up Generative AI Innovation And Monetization",
+      "description": "Microsoft is well-positioned to be one of the long-term AI winners in software. AI is bringing in new customers to the Azure cloud platform and powering expansions across current customers.",
+      "url": "https://www.forbes.com/sites/robertdefrancesco/2024/05/31/microsoft-steadily-ramps-up-generative-ai-innovation-and-monetization/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665a504295555c405b1e0956/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-31T23:32:02Z",
+      "content": "Microsoft stock recently hit a new record high of $433.60. (Photo by Gary Hershorn/Getty Images)\r\nGetty Images\r\nMicrosoft (MSFT) is increasingly monetizing AI across its product portfolio and steadil… [+4439 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Will Delta Air Lines Stock See Higher Levels After A 3.5x Growth In Profits?",
+      "description": "Delta (NYSE: DAL) saw its net income surge by 3.5x y-o-y to $4.6 billion in 2023. This can primarily be attributed to higher revenues..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/18/will-delta-air-lines-stock-see-higher-levels-after-a-35x-growth-in-profits/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/667155db5efbfa5f866c9f91/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-18T12:45:10Z",
+      "content": "A Delta Air Lines' Airbus A350-900 aircraft is displayed during an unveiling event for Delta's team ... [+] USA livery for the Paris 2024 Olympic Games, at the Airbus delivery centre in Toulouse, sou… [+4287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Adobe Stock Gained 14% In A Day, What’s Next?",
+      "description": "Adobe’s stock (NASDAQ: ADBE) price jumped 14.5% on 14th June, as compared to a near-zero change in the S&P500 index. In sharp contrast, Adobe’s peer..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/18/adobe-stock-gained-14-in-a-day-whats-next/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6671525b4ee2ec3165fb3758/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-18T11:15:15Z",
+      "content": "POLAND - 2024/04/16: In this photo illustration, an Adobe logo is displayed on a smartphone with an ... [+] OpenAI logo in the background. (Photo Illustration by Omar Marques/SOPA Images/LightRocket … [+3772 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Despite Strong Gold Prices, Barrick Stock Is Down 11% This Year. Is It A Good Bet?",
+      "description": "The underperformance comes despite the fact that gold prices have been trending considerably higher, rising from levels of around $2,050 per ounce in early..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/11/despite-strong-gold-prices-barrick-stock-is-down-11-this-year-is-it-a-good-bet/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64f804b1658706d7641e8171/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-11T15:45:29Z",
+      "content": "TORONTO, ONTARIO - MARCH 05: People visit the booth of Barrick Gold Corporation during the ... [+] Prospectors &amp; Developers Association of Canada (PDAC) annual convention 2023 at Metro Toronto Co… [+4145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Down 7% This Year, Will Best Buy Stock Recover Following Q1 Results?",
+      "description": "We expect the retailer’s stock to grow post-fiscal Q1 with revenues and earnings beating estimates slightly.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/05/29/down-7-this-year-will-best-buy-stock-recover-following-q1-results/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66574988f9e6ff164b093555/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-29T16:00:57Z",
+      "content": "Google Home display, manage all your compatible smart devices, Best Buy store, Queens, New York. ... [+] (Photo by: Lindsey Nicholson/UCG/Universal Images Group via Getty Images)\r\nUCG/Universal Image… [+4880 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "With The Stock Almost Flat This Year, Will Q1 Results Drive Gap’s Stock Higher?",
+      "description": "We expect Gap’s stock to likely see little to no movement with revenue beating but earnings missing expectations marginally in fiscal Q1.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/05/30/with-the-stock-almost-flat-this-year-will-q1-results-drive-gaps-stock-higher/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6657ef4932c2eefa6a3f1bc0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-30T13:30:00Z",
+      "content": "SHANGHAI, CHINA - APRIL 11, 2024 - Citizens pass a newly opened GAP store at Nanjing Road Pedestrian ... [+] Street in Shanghai, China, April 11, 2024. (Photo credit should read CFOTO/Future Publishi… [+5390 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "What’s Behind 65% Rise In Seagate Stock In A Year?",
+      "description": "Seagate expects its gross margin to be between 30% and 33% in Q4, compared to expectations of around 30%. This compares with the 26% gross margin it reported in Q3..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/07/whats-behind-65-rise-in-seagate-stock-in-a-year/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6662aae0f8c40255d0f6fd3f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-07T14:15:07Z",
+      "content": "MINNEAPOLIS, MN - JANUARY 03: A general view of the Seagate Technology company offices on January ... [+] 03, 2024 in Minneapolis, Minnesota. (Photo by AaronP/Bauer-Griffin/GC Images)\r\nGC Images\r\nThe… [+4413 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "What Drove A 3.5x Rise In United Airlines’ Profits In 2023?",
+      "description": "UAL stock has witnessed gains of 15% from levels of $45 in early January 2021 to around $53 now, vs. an increase of about 40% for the S&P 500..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/14/what-drove-a-35x-rise-in-united-airlines-profits-in-2023/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/666bba924ded061aa65eca7a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-14T13:00:00Z",
+      "content": "A United Airlines Boeing 767 is at London Heathrow Airport in London, United Kingdom, on June 10, ... [+] 2023. (Photo by MI News/NurPhoto via Getty Images)\r\nNurPhoto via Getty Images\r\nUnited Airline… [+3999 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Michael Foster, Contributor, \n Michael Foster, Contributor\n https://www.forbes.com/sites/michaelfoster/",
+      "title": "Dump Your ETFs Now, Buy These 8%+ Payers Instead",
+      "description": "I’ve been shocked at how many people sleepwalk right past these incredible income plays, and the big dividends (and upside) they offer.",
+      "url": "https://www.forbes.com/sites/michaelfoster/2024/06/18/dump-your-etfs-now-buy-these-8-payers-instead/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/666b201f61f68539562a28ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-18T14:15:00Z",
+      "content": "Throw the garbage bag into the trash can\r\ngetty\r\nIve been covering closed-end funds (CEFs) for more than a decade. Through that time (and still today!) Ive been shocked at how many people sleepwalk r… [+4708 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "John Dorfman, Contributor, \n John Dorfman, Contributor\n https://www.forbes.com/sites/johndorfman/",
+      "title": "My Personal Portfolio: These Are The Stocks I Own",
+      "description": "I am naked in two of the stock market's 11 sectors, but heavy in industrials and technology.",
+      "url": "https://www.forbes.com/sites/johndorfman/2024/06/17/my-personal-portfolio-these-are-the-stocks-i-own/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/666fa0a5ba43429cc1280f92/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-17T13:45:00Z",
+      "content": "Rising stock market chart on a trading board background.\r\ngetty\r\nIf youre an investment manager and you tout he stocks you own, its called talking your book. I try not to do too much of it in this co… [+4470 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Should You Pick Moderna Stock At $150 After 25% Gains In A Month?",
+      "description": "Moderna has a couple of factors to back its strong run. Firstly, the U.S. FDA recently approved Moderna’s respiratory syncytial virus vaccine, making it the..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/07/should-you-pick-moderna-stock-at-150-after-25-gains-in-a-month/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6662a956f8c40255d0f6fd3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-07T12:45:36Z",
+      "content": "Moderna headquarters, exterior view, Cambridge, Massachusetts, USA. (Photo by: Plexi ... [+] Images/GHI/UCG/Universal Images Group via Getty Images)\r\nUCG/Universal Images Group via Getty Images\r\nThe … [+4819 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Pete Bernard, Forbes Councils Member, \n Pete Bernard, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/petebernard/",
+      "title": "AI For Good: Using Edge AI And Synthetic Data For Land Mine Detection",
+      "description": "We must continue to look for areas where AI, specifically edge AI, can be used for good.",
+      "url": "https://www.forbes.com/sites/forbestechcouncil/2024/06/10/ai-for-good-using-edge-ai-and-synthetic-data-for-land-mine-detection/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6495a2f60a3e4d13703cb33d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-10T10:00:00Z",
+      "content": "Pete Bernard is the Exec Director of the TinyML Foundation and spent decades in Silicon Valley &amp; MSFT pushing the envelope of edge computing\r\ngetty\r\nAs AI advances with generative AI model archit… [+4674 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "DR Horton & Other Homebuilder Stocks Are Having A Rough Year. Will Things Get Better?",
+      "description": "Although Spring is typically the busiest season of the year for the U.S. housing market, things were mixed for April. New home sales declined 4.7% to a seasonally..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/11/dr-horton--other-homebuilder-stocks-are-having-a-rough-year-will-things-get-better/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/664c137020609f325ef2bb9d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-11T15:30:35Z",
+      "content": "UKRAINE - 2021/07/18: In this photo illustration, a D.R. Horton, Inc. logo seen displayed on a ... [+] smartphone. (Photo Illustration by Igor Golovniov/SOPA Images/LightRocket via Getty Images)\r\nSOP… [+3663 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Tom Aspray, Contributor, \n Tom Aspray, Contributor\n https://www.forbes.com/sites/tomaspray/",
+      "title": "One Stock Market Leader Is Diverging",
+      "description": "The Viper Report’s Tom Aspray focuses on selecting those stocks and ETFs that are leading the S&P 500. One market leader, Tom reports has developed some warnings signs.",
+      "url": "https://www.forbes.com/sites/tomaspray/2024/06/09/one-stock-market-leader-is-diverging/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66662a522c0c4343318d198a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-09T22:31:22Z",
+      "content": "Isometric opposite black and white arrows connected with common puzzle piece. \r\ngetty\r\nLast week was another week of mixed performance for the stock market as the economic data, including the week-en… [+3742 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "After 50% Gains This Year Will AI Demand Continue To Drive Western Digital Stock Higher?",
+      "description": "Western Digital (NASDAQ: WDC) has seen its stock price surge over 55% this year, while its peer Seagate (NASDAQ: STX) saw over 25% gains. The rise in WDC stock lately..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/20/after-50-gains-this-year-will-ai-demand-continue-to-drive-western-digital-stock-higher/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66723ad609334d88b07ad11a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-20T11:30:00Z",
+      "content": "CHINA - 2023/11/03: In this photo illustration, the American computer hard disk drive and data ... [+] storage manufacturer Western Digital (WD, NASDAQ: WDC) logo seen displayed on a smartphone with … [+4119 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Roku Stock Can Rise To $70 As Cash Flows Surge",
+      "description": "Roku has had a tough year so far, falling by about 43% year-to-date, underperforming the Nasdaq-100, which gained over 20% over the same period. The decline comes amid..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/21/roku-stock-can-rise-to-70-as-cash-flows-surge/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6674ef465d37e4f554edc80c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-21T10:30:00Z",
+      "content": "LOS ANGELES, CALIFORNIA - MARCH 18: Blake Anderson, Kate Berlant, Andy Richter, Chelsea Peretti, Amy ... [+] Poehler, Xosha Roquemore, Benito Skinner and Max Greenfield seen at Los Angeles Friends an… [+4822 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Up 70% Since Beginning Of This Year, Will Abercrombie’s Strong Run Continue Following Q1 Results?",
+      "description": "ANF stock has increased 72% since the beginning of this year, outperforming the broader indices, with the S&P growing 11% over the same period.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/05/28/up-70-since-beginning-of-this-year-will-abercrombies-strong-run-continue-following-q1-results/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6655fa9ea3808a7483f9749b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-28T16:00:33Z",
+      "content": "TORONTO, ONT - JULY 26: An Abercrombie &amp; Fitch corporate logo hangs on a wall outside their store at ... [+] the Eaton Center shopping mall on July 26, 2023, in Toronto, Canada. (Photo by Gary He… [+5237 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "With MI300X Does AMD Really Have What It Takes To Challenge Nvidia In AI?",
+      "description": "Advanced Micro Devices stock (NASDAQ: AMD) has gained close to 40% over the past year.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/05/29/with-mi300x-does-amd-really-have-what-it-takes-to-challenge-nvidia-in-ai/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6656caead03a4090cfafd797/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-29T10:00:17Z",
+      "content": "The AMD logo is seen in this photo illustration on 23 November, 2023 in Warsaw, Poland. (Photo by ... [+] Jaap Arriens/NurPhoto via Getty Images)\r\nNurPhoto via Getty Images\r\nAdvanced Micro Devices st… [+4570 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "American Airlines Stock Has Seen A 15% Fall This Year Despite Increased Profitability",
+      "description": "After the pandemic, American Airlines focused on its own website to garner sales and cut its sales staff, but this didn’t work out so well for the airline, as it lost ...",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/05/31/american-airlines-stock-has-seen-a-15-fall-this-year-despite-increased-profitability/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6659181b133030c2ea610f39/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-31T12:00:00Z",
+      "content": "LOS ANGELES, CA - MAY 24: American Airlines Boeing 777-223 arrives at Los Angeles International ... [+] Airport during Memorial Day weekend on May 24, 2024 in Los Angeles, California. (Photo by Aaron… [+5162 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Can A Stock Split Help Drive Nvidia To A $3 Trillion Market Cap?",
+      "description": "Revenues for Q1 more than tripled year-over-year to about $26 billion, while net profits were up over 7x to $14.9 billion.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/05/24/can-a-stock-split-help-drive-nvidia-to-a-3-trillion-market-cap/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66502978ad53ab292c73cea3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-24T10:00:58Z",
+      "content": "Signage with logo at the Silicon Valley headquarters of computer graphics hardware company Nvidia, ... [+] Santa Clara, California, August 17, 2017. (Photo via Smith Collection/Gado/Getty Images).\r\nG… [+5524 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Michael Foster, Contributor, \n Michael Foster, Contributor\n https://www.forbes.com/sites/michaelfoster/",
+      "title": "How To Bag Massive 9.1% Dividends As AI ‘Bubble’ Pops",
+      "description": "You probably remember the first time you heard about ChatGPT. The AI tool’s lifelike responses seemed like magic!",
+      "url": "https://www.forbes.com/sites/michaelfoster/2024/06/11/how-to-bag-massive-91-dividends-as-ai-bubble-pops/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6661fd1b6cf45409177bc5ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-11T11:45:00Z",
+      "content": "Close-up of a woman's face with a pink bubble gum. Vintage comic style.\r\ngetty\r\nYou probably remember the first time you heard about ChatGPT. The AI tools lifelike responses seemed like magicso much … [+4752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "What’s Next For Lululemon Stock After 38% Fall This Year?",
+      "description": "LULU saw a stellar performance in FY 2023, which ended Jan. 28. The athleisure brand experienced a brutal downturn this year after enjoying a mostly upward trajectory..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/11/whats-next-for-lululemon-stock-after-38-fall-this-year/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/666869f877e37e0b92aa25c0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-11T15:30:44Z",
+      "content": "NEW YORK, NEW YORK - JUNE 05: People walk past a Lululemon department store on June 05, 2024 in New ... [+] York City. Lululemon will be reporting its first quarter results after the closing bell of … [+5157 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Up Nearly 15% In A Week Will Illumina Stock Continue To See Higher Levels?",
+      "description": "The rise in ILMN stock can primarily be attributed to the company’s decision to spin off its blood testing company – Grail. Illumina acquired Grail in 2021..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/10/up-nearly-15-in-a-week-will-illumina-stock-continue-to-see-higher-levels/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66668571755cc56215e00e04/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-10T11:30:49Z",
+      "content": "INDIA - 2023/12/16: In this photo illustration, the Illumina logo is seen displayed on a mobile ... [+] phone screen. (Photo Illustration by Idrees Abbas/SOPA Images/LightRocket via Getty Images)\r\nSO… [+3794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "John Dorfman, Contributor, \n John Dorfman, Contributor\n https://www.forbes.com/sites/johndorfman/",
+      "title": "Four CEOs Who Bought Their Own Company’s Stock In May",
+      "description": "Defying bad news, several chief executive officers bought their own company's stock last month. Here are four cases that caught my eye.",
+      "url": "https://www.forbes.com/sites/johndorfman/2024/06/03/four-ceos-who-bought-their-own-companys-stock-in-may/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665d4713aa32e817807b85cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-03T14:00:18Z",
+      "content": "Stock certificates from 1950s-1970s. \r\ngetty\r\nDefying bad news, several chief executive officers bought their own companies stock last month. Here are four cases that caught my eye.\r\nAt Skyworks Solu… [+4591 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "With Over 10% Gains This Year Is Altria Stock A Better Pick Than Freeport?",
+      "description": "Freeport-McMoRan has seen better revenue growth lately, while Altria is more profitable.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/03/with-over-10-gains-this-year-is-altria-stock-a-better-pick-than-freeport/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/630853ddb5758f79a01b5fd1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-03T12:00:17Z",
+      "content": "UKRAINE - 2021/08/12: In this photo illustration an Altria Group, Inc. logo seen displayed on a ... [+] smartphone screen and in the background. (Photo Illustration by Igor Golovniov/SOPA Images/Ligh… [+5649 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "What’s Next For ANF Stock After 47% Gains In A Month?",
+      "description": "ANF’s FY’23 earnings came in significantly higher than expected at $6.22 per share compared to mere 5 cents in FY’22. Its operating margin also grew from 2.4% in..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/03/whats-next-for-anf-stock-after-47-gains-in-a-month/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665d40d05603875505becb9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-03T10:00:04Z",
+      "content": "NEW YORK, NEW YORK - AUGUST 25: An Abercrombie &amp; Fitch signage is seen on a store on Fifth Avenue on ... [+] August 25, 2022 in New York City. The Abercrombie retail store, which also owns the Ho… [+5106 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Gaining 20% This Year, Will Bath & Body Works Rally Further After Q1 Results?",
+      "description": "We expect BBWI stock to likely trade lower with revenues and earnings missing expectations in its first-quarter results. BBWI stock has increased 20% from around $43 to..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/03/gaining-20-this-year-will-bath--body-works-rally-further-after-q1-results/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63b506f82287935e0c69d661/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-03T15:30:35Z",
+      "content": "MUNCY, PENNSYLVANIA, UNITED STATES - 2022/11/21: A Bath and Body Works store stands at the Lycoming ... [+] Crossing Shopping Center in Muncy. The Christmas holiday shopping season in the United Stat… [+5463 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Up 400% In 3 Years, Eli Lilly Stock Just Keeps Giving",
+      "description": "Admirably, LLY stock has outperformed the broader market in each of the last three years. Returns for the stock were 64% in 2021, 32% in 2022, and 59% in 2023.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/07/up-400-in-three-years-eli-lilly-stock-just-keeps-giving/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662b6a87b3af139422324bac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-07T15:00:23Z",
+      "content": "Eli Lilly logo is screened on a mobile phone for illustration photo. Krakow, Poland on April 9th, ... [+] 2024 (Photo by Beata Zawrzel/NurPhoto via Getty Images)\r\nNurPhoto via Getty Images\r\nEli Lilly… [+3752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "What’s Next For Jack Daniel’s Maker Brown-Forman Stock After A 6% Fall Following A Mixed Q4?",
+      "description": "The company reported revenue of $964 million and earnings of $0.56 per share, compared to the consensus estimates of $1.05 billion and $0.42, respectively.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/07/whats-next-for-jack-daniels-maker-brown-forman-stock-after-a-6-fall-following-a-mixed-q4/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6662aa394835f56457ea5d5d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-07T13:30:04Z",
+      "content": "UKRAINE - 2021/04/19: In this photo illustration a BrownForman logo is seen on a smartphone and a pc ... [+] screen. (Photo Illustration by Pavlo Gonchar/SOPA Images/LightRocket via Getty Images)\r\nSO… [+3648 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "With Less Than 10% Contribution To Sales How Important Is The Diabetes Segment For Medtronic Stock?",
+      "description": "The slower growth can be attributed to unfavorable currency translation, given that over 60% of the segment sales are derived from markets outside the U.S.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/06/with-less-than-10-contribution-to-sales-how-important-is-the-diabetes-segment-for-medtronic-stock/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/655aef52254182e82fc84f5a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-06T10:00:25Z",
+      "content": "This photo taken on Nov. 8, 2023 shows a booth of Medtronic at the 6th China International Import ... [+] Expo CIIE in east China's Shanghai. (Photo by Wang Xiang/Xinhua via Getty Images)\r\nXinhua New… [+4754 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Should You Pick FedEx Stock At $250 Ahead Of Q4 Results?",
+      "description": "FedEx (NYSE: FDX) is scheduled to report its fiscal Q4 2024 results on Tuesday, June 25 (FedEx’s fiscal ends in May). We expect FDX stock to trade higher post the Q4..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/21/should-you-pick-fedex-stock-at-250-ahead-of-q4-results/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6674f3aa0e1ce110ece5fba8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-21T12:45:00Z",
+      "content": "HAMILTON, ONTARIO - MAY 29: A FedEx truck is displayed prior to the RBC Canadian Open at Hamilton ... [+] Golf &amp; Country Club on May 29, 2024 in Hamilton, Ontario. (Photo by Vaughn Ridley/Getty I… [+4307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Adobe Stock Down 23% YTD; Can Q2 Results Reverse The Trend?",
+      "description": "Further, ADBE is scheduled to report its fiscal Q2 2024 results on Thursday, June 13. We expect it to top the street estimates for revenues, while earnings..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/06/12/adobe-stock-down-23-ytd-can-q2-results-reverse-the-trend/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/666929a408b5d041c610b01a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-12T11:00:55Z",
+      "content": "SAN FRANCISCO, CALIFORNIA - DECEMBER 13: A sign is displayed on the exterior of an Adobe office on ... [+] December 13, 2023 in San Francisco, California. Computer software company Adobe will report … [+4321 chars]"
+    }
+  ]
+}
